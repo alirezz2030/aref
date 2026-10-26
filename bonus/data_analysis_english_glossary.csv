@@ -1,0 +1,51 @@
+﻿term,plain_english_definition,example_sentence
+dataset,A collection of related data.,The dataset contains six months of order records.
+record / row,One observation in a table.,Each row represents one order line.
+field / column,A variable in a table.,The customer_id column identifies the customer.
+metric,A measurement used to track an outcome.,Revenue is a key business metric.
+KPI,A metric linked to an important business objective.,Gross margin is one of our core KPIs.
+baseline,A reference value used for comparison.,The baseline conversion rate was 3.5%.
+benchmark,A standard or reference used for comparison.,We compared delivery time with the agreed benchmark.
+trend,The general direction of change over time.,The trend shows steady growth in revenue.
+fluctuate,To rise and fall repeatedly.,Demand fluctuated throughout the quarter.
+peak,To reach the highest point.,Sales peaked in November.
+decline,To decrease.,Revenue declined compared with the previous month.
+stable,Changing very little.,The margin remained stable over the period.
+segment,A subgroup within a broader population.,We compared conversion by customer segment.
+funnel,A sequence of steps toward an outcome.,The funnel shows where visitors leave the purchase process.
+conversion rate,The share of eligible cases that complete an action.,Conversion rate increased from 3% to 4%.
+retention,The extent to which customers remain active.,Retention was higher among repeat purchasers.
+churn,The loss of customers over a defined period.,Monthly churn was 4%.
+gross profit,Revenue minus cost of goods sold under the agreed definition.,"Gross profit increased by $12,000."
+gross margin,Gross profit divided by revenue.,Gross margin fell by two percentage points.
+average order value,Revenue divided by the number of distinct orders.,Average order value rose to $68.
+outlier,An observation unusually far from the rest.,We investigated the outlier before removing anything.
+missing value,A value that is absent or not recorded.,The region field contains missing values.
+duplicate,"A repeated record or key, depending on the definition.",We checked repeated order IDs before deduplication.
+correlation,A measure of association between variables.,Ad spend and sales were positively correlated.
+causation,A cause-and-effect relationship.,Correlation alone does not establish causation.
+confidence interval,A range produced by an estimation method to express uncertainty.,The 95% confidence interval ranged from 1 to 5 points.
+p-value,A probability calculated under a null model and its assumptions.,The p-value was below the preselected threshold.
+statistical significance,Evidence judged against a preselected test threshold.,The result was statistically significant at the 5% level.
+effect size,A measure of the magnitude of a result.,The effect size was small despite the low p-value.
+sample,A subset of a population used for analysis.,The sample may not represent all customers.
+bias,A systematic distortion in data or analysis.,Selection bias could affect the estimate.
+assumption,A condition taken as true for an analysis.,The forecast assumes stable demand.
+limitation,A constraint on what the analysis can conclude.,A key limitation is the short observation period.
+finding,An observation supported by evidence.,The analysis found that the online margin was lower.
+insight,An interpretation of findings that matters for a decision.,The insight is that revenue growth may be masking weaker margins.
+recommendation,A proposed action based on analysis.,I recommend testing a smaller discount before a full rollout.
+stakeholder,A person or group affected by or involved in a decision.,The operations manager is a key stakeholder.
+root cause,An underlying reason a problem occurs.,We need more evidence before naming a root cause.
+bottleneck,A stage that constrains overall throughput.,Packing appears to be the capacity bottleneck.
+trade-off,A choice involving competing benefits or costs.,The team must balance service level against inventory cost.
+rollout,The process of releasing a change more broadly.,We recommend a gradual rollout with guardrail metrics.
+guardrail metric,A metric monitored to catch harmful side effects.,We will monitor refund rate as a guardrail metric.
+reconcile,To compare values and explain or resolve differences.,I reconciled the dashboard total with finance's report.
+granularity / grain,The level represented by one row in a dataset.,The table's grain is one row per order line.
+variance,"A measure based on squared deviations, or a difference from a plan in business usage.","The variance from budget was $8,000."
+forecast,An estimate of a future outcome.,The forecast suggests stable demand next month.
+scenario,A set of outcomes under a defined group of assumptions.,The downside scenario assumes lower sales and higher cost.
+ROI,Return on investment under a stated formula.,The first-year ROI estimate is 18%.
+unit economics,"Revenue and costs examined per unit, order, or customer.",Unit economics are positive before fixed costs.
+acceptance criteria,Conditions that define when a requirement is met.,The report passes when totals reconcile to the source.

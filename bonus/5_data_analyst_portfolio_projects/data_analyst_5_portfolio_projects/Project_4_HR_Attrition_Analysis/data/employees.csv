@@ -1,0 +1,1401 @@
+employee_id,department,age,years_at_company,overtime,job_satisfaction_1_to_4,work_life_balance_1_to_4,job_level,monthly_income,business_travel,attrition
+E00001,Technology,33,9.3,No,2,1,1,4314,None,Yes
+E00002,HR,40,7.4,Yes,4,4,1,3868,Frequently,Yes
+E00003,HR,46,3.0,No,3,2,1,3303,None,Yes
+E00004,Sales,53,15.8,Yes,2,4,3,7349,Rarely,No
+E00005,HR,37,1.0,No,2,2,5,7517,Rarely,No
+E00006,Technology,60,5.9,No,1,1,1,4037,None,Yes
+E00007,Technology,51,6.9,Yes,3,2,3,6536,Rarely,No
+E00008,Customer Support,51,3.7,Yes,4,3,2,5221,Rarely,Yes
+E00009,Technology,27,2.9,No,3,1,2,4366,Rarely,Yes
+E00010,Sales,35,5.1,Yes,4,1,3,5280,Frequently,No
+E00011,Customer Support,41,2.0,Yes,4,2,1,3505,None,Yes
+E00012,Sales,55,11.3,Yes,4,1,2,4569,Rarely,Yes
+E00013,Customer Support,48,6.3,No,2,3,4,7403,Rarely,No
+E00014,Customer Support,33,3.0,No,3,1,5,7658,Frequently,No
+E00015,Customer Support,33,9.0,No,4,3,2,4521,Rarely,Yes
+E00016,Sales,29,5.5,Yes,3,2,1,3122,None,Yes
+E00017,Sales,34,4.5,No,2,4,1,3429,Rarely,Yes
+E00018,Technology,37,4.2,No,2,2,4,6341,Rarely,No
+E00019,HR,53,6.2,No,1,1,1,4291,Rarely,Yes
+E00020,HR,47,6.7,Yes,1,1,1,4007,Rarely,Yes
+E00021,Customer Support,54,4.4,Yes,3,4,3,6328,Rarely,No
+E00022,Operations,29,1.1,No,3,4,4,5770,None,Yes
+E00023,Operations,23,5.0,No,1,3,2,5252,Rarely,Yes
+E00024,Sales,26,5.4,No,4,1,3,6272,Frequently,No
+E00025,Sales,28,9.6,No,2,3,1,5142,Rarely,Yes
+E00026,Customer Support,29,7.9,Yes,3,2,1,4787,None,Yes
+E00027,Operations,42,7.3,No,4,3,4,8049,None,No
+E00028,Sales,50,4.6,No,2,4,1,3434,None,Yes
+E00029,Technology,22,0.7,No,1,1,4,7689,None,No
+E00030,Sales,21,3.0,No,2,3,4,6774,None,No
+E00031,Customer Support,51,10.0,No,1,2,3,7664,Rarely,No
+E00032,Sales,40,3.0,Yes,4,3,1,2559,Rarely,Yes
+E00033,HR,34,13.2,Yes,4,3,1,5050,Rarely,Yes
+E00034,Finance,23,5.0,No,3,1,2,6092,None,No
+E00035,Operations,41,2.8,Yes,1,4,4,7402,Frequently,No
+E00036,Sales,22,1.3,No,1,4,2,5250,None,Yes
+E00037,Sales,58,4.8,No,1,3,2,4874,Rarely,Yes
+E00038,Finance,44,8.7,No,3,2,2,6392,None,No
+E00039,Technology,45,11.4,Yes,3,2,2,6013,None,No
+E00040,HR,35,3.9,No,1,3,4,6648,None,No
+E00041,Sales,42,3.2,No,2,2,1,3884,Rarely,Yes
+E00042,Finance,21,3.0,No,3,2,1,3611,None,Yes
+E00043,Operations,51,1.1,No,2,3,2,4078,Rarely,Yes
+E00044,Finance,23,5.0,No,1,1,3,7142,None,No
+E00045,Finance,44,3.2,No,1,1,2,4744,None,Yes
+E00046,Operations,32,14.0,Yes,1,2,1,3577,Frequently,Yes
+E00047,Customer Support,54,14.9,No,1,4,3,7063,Rarely,No
+E00048,Customer Support,56,2.2,Yes,4,4,1,3709,Rarely,Yes
+E00049,Technology,49,7.0,No,1,3,2,5508,None,Yes
+E00050,Customer Support,26,8.0,Yes,3,3,3,7069,Rarely,No
+E00051,Operations,45,4.8,No,3,4,1,3288,None,Yes
+E00052,Customer Support,37,13.7,Yes,4,2,1,4396,Rarely,Yes
+E00053,HR,56,6.4,No,3,2,2,5111,Rarely,No
+E00054,Technology,37,4.5,No,2,1,2,5466,Frequently,Yes
+E00055,Sales,43,2.1,Yes,2,1,1,2483,Rarely,Yes
+E00056,Technology,60,1.8,Yes,2,4,2,4560,None,Yes
+E00057,Customer Support,26,6.1,No,3,3,1,3672,None,Yes
+E00058,Operations,53,3.9,No,2,4,3,6631,None,No
+E00059,Sales,48,0.3,No,4,4,1,3174,Rarely,Yes
+E00060,Technology,60,2.7,No,2,4,2,4070,Rarely,Yes
+E00061,Sales,34,0.3,Yes,3,3,2,5258,Frequently,Yes
+E00062,Sales,50,10.7,No,3,4,2,5606,Rarely,No
+E00063,Customer Support,24,6.0,No,2,4,1,3209,Frequently,Yes
+E00064,Customer Support,38,4.0,No,3,4,1,4502,Frequently,Yes
+E00065,Technology,21,3.0,No,4,3,5,8325,Frequently,No
+E00066,Finance,27,1.7,No,2,3,1,3041,Rarely,Yes
+E00067,Technology,51,6.3,Yes,2,1,1,4060,Rarely,Yes
+E00068,Customer Support,26,8.0,No,4,4,5,8383,Rarely,No
+E00069,Technology,46,21.5,Yes,2,2,4,7900,Rarely,No
+E00070,Operations,46,1.2,No,3,3,1,3233,None,Yes
+E00071,Customer Support,31,1.8,No,2,1,4,6968,Rarely,No
+E00072,Technology,51,14.9,Yes,1,3,5,10139,None,No
+E00073,Finance,41,3.0,No,2,1,3,5306,Rarely,Yes
+E00074,Finance,52,3.8,No,4,2,2,4732,Rarely,No
+E00075,Sales,21,3.0,No,4,3,3,7128,Rarely,No
+E00076,HR,43,10.0,No,4,3,4,8498,Rarely,No
+E00077,Operations,53,1.5,No,4,1,3,5763,Rarely,No
+E00078,Customer Support,26,8.0,No,4,1,4,8043,None,No
+E00079,Sales,49,2.1,No,3,3,1,3533,Rarely,Yes
+E00080,Operations,44,1.9,No,1,2,3,5008,None,Yes
+E00081,Technology,35,3.8,No,3,4,3,6680,Rarely,No
+E00082,Customer Support,27,5.6,No,3,1,4,7940,Rarely,No
+E00083,Finance,49,13.1,No,2,4,3,5270,None,No
+E00084,Operations,23,5.0,Yes,1,4,3,6570,Rarely,No
+E00085,Operations,52,4.6,No,1,4,5,8451,None,No
+E00086,Customer Support,51,8.7,No,2,4,1,4152,None,Yes
+E00087,Operations,37,2.8,No,4,1,2,5147,Rarely,No
+E00088,Finance,34,5.4,Yes,3,3,3,5732,Rarely,Yes
+E00089,Operations,32,8.0,No,3,3,4,6899,None,No
+E00090,HR,39,3.2,No,2,3,2,4517,None,Yes
+E00091,Finance,49,5.0,No,3,1,3,6301,None,No
+E00092,Customer Support,48,10.8,No,3,1,1,3659,Rarely,Yes
+E00093,Technology,49,8.4,No,1,1,2,4530,Rarely,Yes
+E00094,Customer Support,55,3.1,No,4,3,2,4684,Rarely,No
+E00095,Operations,44,3.2,No,3,4,2,4610,Rarely,No
+E00096,Finance,38,4.6,No,2,2,4,6973,Rarely,No
+E00097,Technology,35,15.3,No,3,4,3,6287,Frequently,No
+E00098,Technology,47,3.1,No,1,4,3,5996,None,No
+E00099,Finance,55,10.7,No,1,1,1,4493,Rarely,Yes
+E00100,Technology,59,9.0,No,2,2,3,7115,Rarely,No
+E00101,Sales,58,1.0,No,3,4,1,3275,None,Yes
+E00102,Operations,54,14.3,Yes,4,1,1,5453,Rarely,Yes
+E00103,Finance,25,7.0,Yes,1,4,5,8598,Rarely,No
+E00104,Sales,43,2.8,No,3,1,3,5769,None,No
+E00105,Sales,39,4.7,No,3,4,2,4984,None,No
+E00106,Operations,24,6.0,No,2,1,1,4185,Rarely,Yes
+E00107,Sales,41,3.3,No,4,2,1,3498,Rarely,Yes
+E00108,Finance,53,10.1,No,1,1,4,7781,None,No
+E00109,Technology,29,10.5,Yes,4,3,5,8590,Rarely,No
+E00110,Sales,34,5.3,No,1,3,5,7868,Frequently,No
+E00111,HR,29,5.9,No,4,4,2,4934,None,No
+E00112,Finance,27,6.0,No,1,4,3,5969,Frequently,No
+E00113,Operations,48,7.2,No,2,1,2,4949,Rarely,Yes
+E00114,Customer Support,57,8.8,No,3,2,1,3427,Rarely,Yes
+E00115,Customer Support,40,12.2,Yes,4,2,1,4310,Rarely,Yes
+E00116,Sales,25,5.9,No,2,2,4,7273,Rarely,No
+E00117,Sales,29,7.8,No,2,1,3,5488,None,No
+E00118,Operations,21,3.0,Yes,3,4,4,7463,Rarely,No
+E00119,Sales,31,6.9,No,1,4,1,2475,None,Yes
+E00120,Technology,44,12.1,Yes,1,4,1,4461,None,Yes
+E00121,Operations,35,3.5,No,1,1,1,4169,None,Yes
+E00122,Technology,51,6.8,No,1,1,1,3755,Frequently,Yes
+E00123,Operations,43,15.5,No,1,1,1,5092,Rarely,Yes
+E00124,Technology,59,8.9,No,2,1,3,6190,None,No
+E00125,Technology,28,8.5,No,4,4,3,6675,Rarely,No
+E00126,Customer Support,23,3.5,Yes,2,2,2,4836,None,Yes
+E00127,Operations,42,8.4,No,2,4,2,5233,Rarely,Yes
+E00128,Operations,34,4.7,No,2,4,2,4757,None,Yes
+E00129,Sales,30,1.7,No,1,2,2,5184,Rarely,Yes
+E00130,Technology,50,8.0,No,3,4,1,4128,Rarely,Yes
+E00131,Technology,59,14.6,No,1,2,1,4460,None,No
+E00132,Sales,31,6.7,No,4,2,1,4134,Rarely,Yes
+E00133,Customer Support,31,2.1,Yes,2,4,1,4562,Rarely,Yes
+E00134,Operations,58,13.1,No,1,3,1,3728,Frequently,Yes
+E00135,Operations,21,0.8,No,4,2,1,3571,Rarely,Yes
+E00136,Technology,54,9.1,No,2,3,3,6479,None,No
+E00137,Technology,48,2.3,No,4,1,1,3221,None,Yes
+E00138,Technology,33,7.8,No,3,2,4,7770,Frequently,No
+E00139,Customer Support,24,6.0,Yes,2,1,5,7883,Rarely,No
+E00140,Technology,50,8.1,Yes,3,3,3,5755,Rarely,No
+E00141,Sales,46,3.0,Yes,4,1,4,6564,None,No
+E00142,Sales,54,4.5,No,2,2,2,5342,None,Yes
+E00143,Technology,30,6.6,No,1,4,1,5041,Rarely,No
+E00144,Finance,40,10.1,No,1,1,2,5167,Rarely,No
+E00145,Operations,45,7.8,Yes,4,1,2,5569,Rarely,No
+E00146,Operations,59,11.4,Yes,1,2,1,4225,Rarely,Yes
+E00147,Customer Support,48,5.6,Yes,4,2,3,5723,Frequently,Yes
+E00148,Operations,29,11.0,Yes,1,1,2,6124,Frequently,No
+E00149,Finance,28,10.0,Yes,4,2,2,4865,None,Yes
+E00150,Finance,60,7.0,No,2,4,2,5393,Rarely,No
+E00151,Finance,57,11.9,No,3,1,1,4622,Rarely,Yes
+E00152,HR,24,6.0,No,1,4,4,7634,Rarely,No
+E00153,Sales,52,7.3,No,4,3,2,5926,Rarely,No
+E00154,Sales,35,5.6,No,3,1,2,4544,None,Yes
+E00155,Operations,34,8.9,Yes,1,2,3,6951,Rarely,No
+E00156,Operations,33,9.4,No,3,4,5,9186,Rarely,No
+E00157,Sales,34,7.1,No,4,1,1,4428,None,Yes
+E00158,Sales,22,4.0,No,4,1,3,6556,Rarely,No
+E00159,Technology,36,7.7,No,3,3,1,4630,None,No
+E00160,Finance,43,3.0,No,4,1,2,5078,Rarely,Yes
+E00161,Customer Support,51,4.6,No,4,1,2,5036,Frequently,Yes
+E00162,HR,33,5.2,No,3,2,3,6081,None,No
+E00163,Finance,55,5.6,No,4,3,4,7436,Rarely,No
+E00164,Customer Support,43,1.5,No,4,4,1,3907,Rarely,Yes
+E00165,Customer Support,41,1.7,No,2,4,1,3893,None,Yes
+E00166,Technology,29,2.1,No,1,3,1,4030,None,Yes
+E00167,Operations,29,8.2,No,4,1,3,6875,None,No
+E00168,Customer Support,25,7.0,No,4,1,2,4662,Rarely,Yes
+E00169,Sales,33,12.1,No,1,3,3,7043,Frequently,No
+E00170,Finance,30,3.6,No,2,2,2,5120,None,No
+E00171,Customer Support,21,3.0,No,2,4,3,5751,Rarely,No
+E00172,Finance,21,3.0,Yes,1,1,5,7974,Rarely,No
+E00173,Technology,34,13.8,Yes,1,4,3,6679,Frequently,No
+E00174,Operations,49,5.4,No,3,4,3,6417,Frequently,No
+E00175,Operations,52,12.2,Yes,4,4,2,6172,Frequently,No
+E00176,Technology,59,4.4,No,1,2,2,5741,Rarely,No
+E00177,Sales,53,5.1,No,4,2,4,7197,None,No
+E00178,Technology,35,3.5,No,2,2,4,7078,Frequently,No
+E00179,Sales,60,3.7,No,3,1,4,7720,Frequently,No
+E00180,Sales,54,14.6,Yes,2,4,4,7879,Rarely,No
+E00181,Sales,33,8.7,Yes,3,4,1,4163,Rarely,Yes
+E00182,HR,37,7.0,No,4,4,3,6221,Rarely,No
+E00183,Sales,33,5.7,No,3,3,1,3526,Rarely,Yes
+E00184,Sales,55,21.3,No,3,3,3,7382,Rarely,No
+E00185,Technology,55,8.0,No,1,2,3,6366,Rarely,No
+E00186,Operations,47,9.4,No,4,4,3,6603,Rarely,No
+E00187,Sales,27,9.0,Yes,3,4,1,4800,None,Yes
+E00188,Finance,59,7.6,No,2,3,1,3812,Rarely,Yes
+E00189,Technology,49,15.1,No,4,2,2,6473,Rarely,No
+E00190,Sales,56,16.8,Yes,1,1,2,5398,Rarely,Yes
+E00191,Customer Support,59,6.8,No,2,4,1,4123,Rarely,Yes
+E00192,Operations,49,6.2,No,4,4,2,4904,None,Yes
+E00193,Technology,30,4.6,No,4,2,2,5207,None,No
+E00194,Operations,50,4.2,Yes,3,2,2,5566,Rarely,No
+E00195,Sales,56,15.3,No,3,4,3,6545,Rarely,No
+E00196,Operations,37,4.4,Yes,1,4,3,5438,Rarely,Yes
+E00197,Sales,36,6.1,No,4,1,2,4294,None,Yes
+E00198,Customer Support,49,3.5,No,1,4,2,5086,None,Yes
+E00199,Operations,43,2.6,No,1,1,3,5713,None,Yes
+E00200,Customer Support,47,16.6,Yes,4,1,1,4894,None,Yes
+E00201,Customer Support,59,5.3,No,2,4,2,5509,None,No
+E00202,Customer Support,55,3.1,No,2,2,2,5145,Rarely,Yes
+E00203,Customer Support,42,7.4,No,2,2,3,5885,Frequently,No
+E00204,Finance,25,5.4,No,3,2,4,7223,None,No
+E00205,Technology,31,7.7,No,2,4,1,4982,Rarely,No
+E00206,Customer Support,26,2.5,No,3,1,2,4267,None,Yes
+E00207,Sales,42,9.4,Yes,2,4,2,6366,None,No
+E00208,Operations,23,4.2,Yes,1,4,4,6587,None,No
+E00209,Finance,28,1.3,Yes,4,1,2,4686,Rarely,Yes
+E00210,Operations,27,1.8,Yes,2,3,1,3616,Rarely,Yes
+E00211,Sales,26,8.0,No,4,4,2,5342,Frequently,No
+E00212,Finance,26,1.7,Yes,4,3,3,6073,None,No
+E00213,Operations,31,5.2,No,2,1,3,6124,Rarely,No
+E00214,Operations,30,5.7,No,2,1,2,5136,Frequently,Yes
+E00215,Technology,32,8.4,Yes,1,3,2,5193,Rarely,No
+E00216,Operations,21,3.0,No,2,4,4,7744,None,No
+E00217,Technology,49,16.9,No,4,3,4,8280,Rarely,No
+E00218,Sales,32,14.0,No,4,2,3,7239,None,No
+E00219,Finance,58,9.0,No,3,2,1,3851,Frequently,Yes
+E00220,Technology,59,6.9,No,1,3,2,5075,None,No
+E00221,Customer Support,58,4.6,No,3,4,2,3804,None,Yes
+E00222,Finance,35,6.8,No,1,1,4,7557,None,No
+E00223,Operations,53,2.9,No,3,3,4,8076,Rarely,No
+E00224,HR,43,7.5,No,1,1,1,3532,None,Yes
+E00225,Technology,56,8.6,Yes,4,3,4,7772,Rarely,No
+E00226,Operations,41,14.5,Yes,3,2,3,8003,Frequently,No
+E00227,Customer Support,28,10.0,No,4,1,2,5274,None,Yes
+E00228,Customer Support,33,11.2,Yes,2,3,4,7304,Rarely,No
+E00229,Customer Support,52,12.1,No,3,3,2,6171,Rarely,No
+E00230,Operations,34,16.0,Yes,2,1,3,7110,None,No
+E00231,Sales,54,2.9,No,2,1,2,4489,None,Yes
+E00232,Operations,56,15.5,Yes,4,3,5,8618,Rarely,No
+E00233,HR,44,5.4,No,3,2,2,5464,None,No
+E00234,Sales,32,10.6,No,1,2,2,6117,Rarely,Yes
+E00235,Finance,23,3.3,No,4,4,2,5233,Frequently,No
+E00236,Operations,50,2.3,Yes,3,1,3,5149,None,Yes
+E00237,Sales,25,7.0,Yes,2,2,2,4915,Frequently,Yes
+E00238,Customer Support,25,3.3,No,2,4,2,5401,Rarely,Yes
+E00239,Customer Support,54,4.8,No,3,3,1,3912,None,Yes
+E00240,Sales,47,10.3,No,3,1,1,3465,Rarely,Yes
+E00241,Operations,32,4.7,No,1,4,1,4236,None,Yes
+E00242,Operations,23,4.4,No,2,3,2,5483,Frequently,No
+E00243,Customer Support,38,8.1,No,1,1,2,5819,Rarely,Yes
+E00244,Operations,30,11.3,Yes,1,3,3,7424,None,No
+E00245,Technology,39,8.2,No,2,3,2,5668,Rarely,No
+E00246,Operations,28,6.9,Yes,1,1,5,8187,Frequently,No
+E00247,Finance,60,2.2,No,4,1,1,3528,Rarely,Yes
+E00248,Operations,34,5.6,Yes,3,3,1,3808,None,Yes
+E00249,Customer Support,30,9.3,No,4,2,5,8763,Frequently,No
+E00250,Customer Support,49,3.5,No,1,1,2,5336,Rarely,Yes
+E00251,Finance,50,10.9,No,1,1,1,3704,None,Yes
+E00252,Sales,48,1.5,No,3,3,4,7402,Rarely,No
+E00253,Operations,59,2.5,Yes,2,3,2,5663,None,No
+E00254,Technology,49,5.8,Yes,1,4,1,3750,None,Yes
+E00255,HR,37,9.2,No,2,2,1,3910,Rarely,Yes
+E00256,Sales,51,4.0,No,1,4,1,4232,Frequently,Yes
+E00257,Finance,52,7.0,No,4,3,3,6120,Frequently,No
+E00258,Technology,35,8.0,No,3,3,4,6730,None,No
+E00259,Operations,47,13.5,No,2,1,4,7667,Frequently,No
+E00260,Finance,27,5.2,Yes,1,1,3,7164,None,No
+E00261,Operations,31,4.2,Yes,3,4,1,3464,Rarely,Yes
+E00262,Finance,56,6.8,No,1,2,3,5476,Frequently,Yes
+E00263,Operations,56,11.2,Yes,4,2,3,6833,Rarely,No
+E00264,Finance,33,9.3,No,2,3,1,3230,None,Yes
+E00265,Sales,31,5.2,No,3,1,2,4662,Rarely,Yes
+E00266,Sales,33,5.6,No,1,1,3,6529,Rarely,No
+E00267,Sales,25,7.0,Yes,2,3,3,6475,Rarely,No
+E00268,HR,29,11.0,No,4,1,1,4894,Frequently,Yes
+E00269,HR,30,8.1,Yes,1,4,1,4773,None,Yes
+E00270,Technology,60,12.5,Yes,2,3,2,6285,None,Yes
+E00271,Customer Support,59,8.7,No,3,1,1,3726,None,Yes
+E00272,Customer Support,35,12.0,No,4,3,3,7035,Rarely,No
+E00273,Technology,42,10.2,No,3,1,2,4568,Rarely,Yes
+E00274,Customer Support,45,8.1,No,2,2,2,5771,None,No
+E00275,Technology,55,8.2,No,3,3,4,8715,None,No
+E00276,HR,34,7.9,No,2,3,3,6164,None,No
+E00277,Operations,40,4.6,No,2,2,3,6096,Rarely,No
+E00278,Sales,37,6.1,No,4,3,3,6643,Frequently,No
+E00279,Customer Support,48,2.4,No,3,2,2,4770,None,Yes
+E00280,Operations,49,11.4,No,3,1,3,6102,None,No
+E00281,Technology,25,4.4,No,1,4,4,7032,Rarely,No
+E00282,Sales,45,4.1,No,4,3,1,3520,Rarely,Yes
+E00283,Sales,27,3.6,Yes,4,2,1,3366,Frequently,Yes
+E00284,Operations,53,4.0,Yes,3,1,2,4983,None,Yes
+E00285,Technology,27,9.0,No,3,3,4,8611,Rarely,No
+E00286,Sales,58,3.7,No,4,2,1,3860,None,Yes
+E00287,Sales,33,9.2,Yes,2,2,1,4634,None,Yes
+E00288,Operations,59,3.2,No,2,4,4,7174,None,No
+E00289,Technology,57,5.6,No,3,3,1,3231,None,Yes
+E00290,Sales,58,7.9,No,3,1,2,5179,Rarely,Yes
+E00291,Finance,36,5.9,No,3,4,5,8161,None,No
+E00292,Finance,29,6.7,No,2,1,4,7856,Rarely,No
+E00293,Operations,44,1.8,No,2,3,4,7716,None,No
+E00294,Operations,36,11.2,No,1,4,2,5415,None,No
+E00295,Technology,24,6.0,No,4,1,2,4756,Rarely,No
+E00296,Customer Support,24,6.0,No,2,3,1,4399,Rarely,Yes
+E00297,Sales,52,3.7,No,1,2,2,4830,Rarely,Yes
+E00298,Technology,32,5.2,No,3,1,3,5756,None,Yes
+E00299,Operations,33,6.9,Yes,2,3,1,4154,Rarely,Yes
+E00300,Technology,51,3.6,No,2,2,2,4781,Frequently,Yes
+E00301,Customer Support,55,0.4,No,2,4,1,3694,Rarely,Yes
+E00302,HR,28,3.6,No,1,1,5,8703,Frequently,No
+E00303,Sales,22,4.0,No,2,4,1,3444,Frequently,Yes
+E00304,Technology,35,4.0,No,2,4,4,7593,None,No
+E00305,Sales,33,13.0,No,3,3,4,8348,Frequently,No
+E00306,Operations,53,7.2,Yes,1,4,2,5429,Frequently,Yes
+E00307,HR,22,4.0,No,4,4,2,4936,Rarely,Yes
+E00308,HR,35,2.9,Yes,4,1,2,4281,Rarely,Yes
+E00309,Operations,22,4.0,No,2,2,1,3629,Rarely,Yes
+E00310,Customer Support,24,5.0,No,3,3,1,3493,Rarely,Yes
+E00311,Customer Support,28,6.5,No,4,1,3,4934,None,Yes
+E00312,Operations,28,10.0,No,1,4,4,7082,Frequently,No
+E00313,Technology,42,10.6,Yes,2,3,4,8597,None,No
+E00314,HR,36,8.2,No,3,1,3,7552,Rarely,No
+E00315,Sales,53,11.7,No,2,4,2,6956,None,No
+E00316,Customer Support,27,5.7,No,4,3,4,7549,Rarely,No
+E00317,Sales,55,14.2,Yes,4,3,3,6803,None,No
+E00318,Customer Support,44,5.8,No,1,3,3,6687,Rarely,No
+E00319,Sales,50,10.5,Yes,3,4,1,3724,None,Yes
+E00320,Sales,49,9.2,No,1,3,3,6942,Rarely,No
+E00321,Technology,60,7.0,No,1,4,1,3959,Rarely,Yes
+E00322,Operations,39,3.2,Yes,1,3,3,6297,None,No
+E00323,HR,22,4.0,No,2,3,2,4917,None,No
+E00324,Finance,26,4.7,No,2,1,2,5415,None,Yes
+E00325,HR,41,7.4,No,1,4,1,3822,None,Yes
+E00326,Technology,51,2.3,Yes,3,2,3,5543,Rarely,No
+E00327,Sales,31,4.3,No,2,3,3,5802,Rarely,No
+E00328,Technology,43,5.7,No,1,3,3,7087,Rarely,No
+E00329,HR,54,6.9,No,2,2,2,4933,None,Yes
+E00330,Technology,33,5.1,No,2,1,1,3765,Rarely,Yes
+E00331,HR,52,10.0,No,2,3,2,6224,None,No
+E00332,Technology,23,2.1,Yes,3,3,1,3085,None,Yes
+E00333,Finance,54,1.6,No,2,1,4,7374,Rarely,No
+E00334,Operations,52,10.0,Yes,2,2,2,4374,Frequently,Yes
+E00335,Technology,56,6.0,No,4,4,2,4897,Frequently,No
+E00336,HR,34,7.2,No,3,1,3,5957,None,No
+E00337,Sales,30,1.7,Yes,1,1,3,5577,Rarely,Yes
+E00338,Sales,48,5.2,No,1,2,2,5264,None,Yes
+E00339,Customer Support,45,3.1,No,1,2,1,4038,None,Yes
+E00340,Customer Support,36,3.3,No,2,2,2,4667,None,Yes
+E00341,Finance,55,10.9,No,3,2,1,4175,None,Yes
+E00342,Sales,56,3.7,No,3,4,4,7094,None,No
+E00343,Finance,37,11.6,Yes,4,1,4,8794,Rarely,No
+E00344,Operations,32,12.5,No,3,2,3,6953,Rarely,No
+E00345,Technology,26,5.1,Yes,3,2,3,6533,None,No
+E00346,Operations,44,3.4,Yes,4,2,3,6423,Rarely,Yes
+E00347,Technology,31,13.0,No,2,4,2,5495,Frequently,No
+E00348,Customer Support,44,2.5,No,4,1,2,4084,Rarely,Yes
+E00349,Technology,47,7.8,Yes,3,1,1,4689,Rarely,Yes
+E00350,Finance,38,0.8,Yes,2,1,2,4272,Rarely,Yes
+E00351,Customer Support,33,4.5,Yes,1,1,4,7381,Rarely,No
+E00352,Sales,48,6.9,No,1,3,3,6261,None,No
+E00353,Operations,35,10.0,No,4,2,3,6629,None,No
+E00354,Sales,31,13.0,Yes,3,4,2,5855,Rarely,No
+E00355,Finance,53,2.9,No,4,3,2,4222,Rarely,Yes
+E00356,Sales,36,7.1,Yes,4,2,4,7419,Rarely,No
+E00357,Sales,40,6.1,No,3,3,1,4179,Rarely,Yes
+E00358,Technology,44,2.9,No,4,1,2,5193,Rarely,Yes
+E00359,Sales,43,2.8,No,3,2,1,3171,Rarely,Yes
+E00360,Sales,55,1.0,Yes,2,2,3,5454,None,Yes
+E00361,Technology,57,1.5,No,3,2,1,3304,Frequently,Yes
+E00362,Operations,34,6.1,No,4,3,3,6067,Frequently,No
+E00363,Customer Support,26,2.3,No,2,1,1,3379,None,Yes
+E00364,HR,26,2.7,No,1,4,1,3621,Rarely,Yes
+E00365,Customer Support,40,8.4,Yes,3,1,2,4723,None,Yes
+E00366,Customer Support,37,13.5,Yes,2,3,2,5553,Rarely,No
+E00367,Technology,55,6.9,No,3,1,1,3560,None,Yes
+E00368,Technology,50,3.8,Yes,2,1,1,4139,Rarely,Yes
+E00369,Sales,52,4.3,No,1,1,4,7144,Rarely,No
+E00370,Sales,27,9.0,Yes,1,2,2,6363,Rarely,Yes
+E00371,Technology,31,6.1,No,1,3,3,6451,Rarely,Yes
+E00372,Operations,29,10.7,Yes,4,4,4,8812,Frequently,No
+E00373,Operations,55,21.3,No,3,2,2,6140,Rarely,No
+E00374,HR,53,12.7,No,2,3,2,5035,Frequently,No
+E00375,Operations,38,2.2,No,2,3,2,5454,Rarely,No
+E00376,Finance,28,2.0,No,2,1,3,5929,None,No
+E00377,Finance,57,15.4,No,3,2,2,5477,None,No
+E00378,Customer Support,33,1.2,No,3,1,1,3485,Rarely,Yes
+E00379,Finance,50,6.0,No,3,4,2,5078,Frequently,No
+E00380,Technology,46,12.4,No,1,2,1,4468,None,Yes
+E00381,Technology,34,5.5,No,2,4,1,3675,None,Yes
+E00382,Operations,60,6.6,No,2,2,3,5928,Rarely,No
+E00383,HR,35,3.6,No,2,3,1,4065,None,Yes
+E00384,Operations,46,5.5,No,1,2,1,4509,Rarely,Yes
+E00385,Finance,40,13.7,Yes,2,3,2,6606,Rarely,No
+E00386,Finance,30,3.9,No,2,4,2,4369,None,Yes
+E00387,Operations,36,11.6,No,3,3,4,8238,Frequently,No
+E00388,Finance,47,5.5,No,2,4,1,4600,Frequently,Yes
+E00389,Sales,32,14.0,No,3,3,2,6802,Rarely,No
+E00390,Customer Support,50,4.1,No,3,4,2,5241,None,Yes
+E00391,Customer Support,49,3.8,No,1,4,2,5160,None,Yes
+E00392,Sales,55,10.8,No,1,4,1,4496,Rarely,Yes
+E00393,Finance,34,5.1,No,3,2,1,3669,None,Yes
+E00394,Technology,53,8.6,No,4,1,1,4061,Rarely,Yes
+E00395,Operations,54,17.2,No,3,3,1,5309,Rarely,No
+E00396,Sales,24,6.0,No,2,2,1,4215,Rarely,Yes
+E00397,Operations,57,1.1,Yes,1,4,3,5401,Rarely,Yes
+E00398,Finance,39,3.9,No,1,4,4,6867,Rarely,No
+E00399,Technology,31,6.3,No,4,4,2,6117,Frequently,No
+E00400,Technology,36,2.2,Yes,4,4,2,5181,Rarely,No
+E00401,Customer Support,36,1.8,No,3,1,5,8001,None,No
+E00402,Customer Support,37,8.6,No,4,1,2,6142,Rarely,No
+E00403,Technology,25,2.0,No,1,4,2,3764,None,Yes
+E00404,Finance,40,12.2,No,1,3,4,7400,Rarely,No
+E00405,Sales,32,0.4,Yes,1,4,4,7930,None,No
+E00406,Sales,56,3.1,No,3,2,1,3202,None,Yes
+E00407,Operations,58,3.4,No,3,2,1,3764,Rarely,Yes
+E00408,Operations,55,8.0,No,3,4,1,3780,None,Yes
+E00409,Technology,46,1.0,Yes,4,2,3,5703,None,Yes
+E00410,Technology,34,15.9,Yes,3,2,4,7921,Rarely,No
+E00411,Finance,32,5.5,No,1,1,3,4849,Frequently,Yes
+E00412,Customer Support,51,2.5,Yes,1,1,2,4270,None,Yes
+E00413,Sales,55,7.8,No,4,2,3,6541,Frequently,No
+E00414,Operations,35,6.1,Yes,2,2,1,3990,Frequently,Yes
+E00415,Customer Support,31,10.1,Yes,2,2,2,5613,Rarely,Yes
+E00416,Operations,40,8.7,No,1,1,2,6045,Rarely,No
+E00417,HR,31,13.0,No,3,4,3,6399,None,No
+E00418,Finance,51,8.6,Yes,3,1,1,4208,None,Yes
+E00419,Customer Support,23,3.0,No,2,1,4,6137,Frequently,No
+E00420,Finance,60,4.9,No,3,3,4,5964,Rarely,No
+E00421,Technology,57,2.6,No,4,4,4,6794,None,No
+E00422,Operations,53,3.7,No,3,3,1,3925,Rarely,Yes
+E00423,Sales,50,3.6,Yes,1,3,3,5115,Rarely,Yes
+E00424,Operations,42,16.2,No,3,1,1,5840,None,No
+E00425,Sales,38,4.3,Yes,2,4,2,4987,Rarely,No
+E00426,Sales,49,12.9,Yes,2,3,1,3971,None,Yes
+E00427,Finance,52,3.2,No,2,4,3,6430,None,No
+E00428,Technology,39,4.1,No,1,4,1,3471,None,Yes
+E00429,Finance,46,2.7,No,2,2,2,4637,None,Yes
+E00430,Customer Support,50,6.6,No,3,1,1,4251,Frequently,Yes
+E00431,Finance,49,11.9,No,4,2,1,4768,Rarely,No
+E00432,Customer Support,59,10.1,No,2,3,1,4103,Rarely,Yes
+E00433,HR,49,4.6,No,2,3,3,5306,None,No
+E00434,Operations,50,7.6,Yes,2,3,1,3039,Rarely,Yes
+E00435,Technology,47,6.7,No,1,1,3,5726,None,No
+E00436,Technology,22,0.8,No,3,1,3,5666,Frequently,No
+E00437,Sales,31,1.3,Yes,3,4,1,3778,Rarely,Yes
+E00438,Technology,35,8.4,Yes,1,1,3,7210,Frequently,No
+E00439,Technology,55,17.1,No,4,2,5,9689,Frequently,No
+E00440,HR,25,6.1,Yes,3,2,3,5691,Rarely,No
+E00441,Customer Support,28,2.1,Yes,3,3,1,3364,None,Yes
+E00442,Finance,25,5.2,No,4,2,3,5681,Rarely,No
+E00443,HR,51,6.3,No,3,1,1,4416,None,Yes
+E00444,Technology,28,8.5,No,2,4,2,4257,Rarely,Yes
+E00445,Sales,26,5.3,No,1,3,2,5144,Rarely,Yes
+E00446,Sales,29,4.5,No,4,1,3,6135,None,No
+E00447,Operations,49,19.9,No,1,4,3,8155,Frequently,No
+E00448,Operations,47,8.8,No,4,1,1,4261,Frequently,Yes
+E00449,Sales,34,12.2,No,1,3,3,7816,Rarely,No
+E00450,Operations,56,8.4,Yes,1,3,4,7040,Rarely,No
+E00451,HR,43,3.7,No,3,4,1,3022,None,Yes
+E00452,Operations,38,3.6,No,4,3,2,4896,None,Yes
+E00453,Technology,51,9.5,Yes,1,3,2,6085,None,No
+E00454,HR,46,4.1,Yes,4,2,2,6091,None,No
+E00455,Technology,49,1.0,No,1,3,2,4499,None,Yes
+E00456,Operations,31,3.7,No,1,1,3,6760,None,No
+E00457,Technology,43,0.2,No,2,2,2,3611,Rarely,Yes
+E00458,Customer Support,35,9.5,No,4,2,1,4600,Frequently,Yes
+E00459,Finance,51,2.7,Yes,2,2,2,4417,None,Yes
+E00460,Operations,59,10.2,No,4,1,2,5920,Rarely,No
+E00461,Technology,43,1.7,No,2,2,2,4466,Frequently,Yes
+E00462,HR,27,9.0,Yes,2,2,2,5095,Rarely,Yes
+E00463,Operations,21,3.0,Yes,4,4,5,8882,None,No
+E00464,Operations,49,17.4,Yes,2,1,3,7023,Frequently,No
+E00465,Technology,21,3.0,Yes,3,3,2,5857,Rarely,No
+E00466,Sales,41,9.9,Yes,2,1,2,4123,Rarely,Yes
+E00467,Technology,44,11.7,No,2,4,2,5627,Rarely,Yes
+E00468,Finance,58,6.5,No,2,4,4,7748,None,No
+E00469,Finance,24,6.0,No,1,1,3,6469,None,No
+E00470,HR,41,7.8,No,1,3,4,7805,Rarely,No
+E00471,Operations,41,5.0,No,2,1,1,3049,None,Yes
+E00472,HR,45,7.7,No,3,4,1,4677,Rarely,No
+E00473,Technology,49,14.7,Yes,4,4,4,8299,Frequently,No
+E00474,Technology,36,1.2,Yes,3,1,3,6303,Rarely,No
+E00475,HR,50,4.1,Yes,3,1,1,3901,None,Yes
+E00476,Technology,59,7.2,No,4,3,1,4208,None,Yes
+E00477,Operations,56,24.3,No,3,3,1,6810,Rarely,No
+E00478,Customer Support,49,5.5,Yes,4,3,1,3219,None,Yes
+E00479,Operations,55,5.6,No,1,3,3,6626,None,No
+E00480,Finance,34,7.9,Yes,3,3,1,4211,Rarely,Yes
+E00481,Customer Support,37,6.4,No,3,1,5,8421,Rarely,No
+E00482,Sales,27,2.9,No,2,1,3,5266,Frequently,Yes
+E00483,Sales,52,11.9,No,3,3,2,5368,Rarely,No
+E00484,Sales,26,1.4,No,3,4,1,4292,None,Yes
+E00485,Finance,26,8.0,No,2,1,3,6938,Rarely,No
+E00486,Finance,60,7.9,No,2,3,3,6995,None,No
+E00487,Technology,41,5.4,No,1,2,3,6050,None,No
+E00488,Sales,47,6.9,No,1,1,2,4515,Rarely,Yes
+E00489,Operations,34,3.3,No,1,4,2,3713,Rarely,Yes
+E00490,Sales,24,6.0,No,4,2,4,7320,Rarely,No
+E00491,Operations,43,5.7,No,2,4,2,3942,Rarely,Yes
+E00492,HR,39,7.4,Yes,3,2,2,4828,Frequently,No
+E00493,Customer Support,56,5.9,Yes,4,3,4,7884,None,No
+E00494,Operations,34,7.6,Yes,2,2,5,8635,Rarely,No
+E00495,HR,30,7.3,No,1,3,2,5194,Frequently,No
+E00496,Finance,58,6.3,No,4,2,1,4075,None,Yes
+E00497,Technology,55,2.8,No,1,1,3,6242,Rarely,No
+E00498,Technology,40,9.6,No,1,2,2,6330,None,No
+E00499,Customer Support,24,6.0,No,2,2,4,6501,Rarely,No
+E00500,Technology,56,19.0,No,2,2,2,6221,None,No
+E00501,Sales,29,8.0,Yes,4,3,5,8684,Rarely,No
+E00502,Technology,57,5.3,Yes,2,2,2,5365,Frequently,Yes
+E00503,Finance,59,10.6,No,3,2,1,3435,Rarely,Yes
+E00504,HR,36,4.7,No,2,1,3,6083,Rarely,No
+E00505,Finance,52,5.2,No,3,4,1,3290,Rarely,Yes
+E00506,Technology,51,12.4,No,4,1,1,4703,Rarely,No
+E00507,Technology,51,5.7,Yes,2,4,1,3699,Rarely,Yes
+E00508,Technology,35,12.1,No,3,1,2,6078,None,Yes
+E00509,Sales,55,2.6,No,1,2,2,4954,Rarely,Yes
+E00510,Technology,23,3.8,No,3,4,4,7047,Frequently,No
+E00511,HR,25,7.0,No,3,2,3,6046,Rarely,No
+E00512,Technology,49,6.2,No,2,2,2,4328,Rarely,No
+E00513,Sales,23,5.0,No,3,1,3,5281,None,Yes
+E00514,Technology,35,6.3,No,2,4,2,5908,Rarely,No
+E00515,Sales,56,12.0,No,3,3,3,6796,Rarely,No
+E00516,Operations,56,9.5,Yes,2,2,2,5437,None,Yes
+E00517,Operations,52,2.2,Yes,2,3,1,4007,Rarely,Yes
+E00518,Operations,38,9.1,Yes,3,3,1,3237,Rarely,Yes
+E00519,Sales,39,9.6,Yes,2,4,2,5040,None,Yes
+E00520,Operations,33,7.1,No,2,4,2,4868,Rarely,Yes
+E00521,Operations,34,7.8,Yes,3,4,1,2681,Rarely,Yes
+E00522,Sales,42,5.1,Yes,3,1,1,3519,Frequently,Yes
+E00523,Sales,44,1.3,Yes,2,2,2,5273,None,Yes
+E00524,Sales,39,13.4,No,2,4,1,4855,Frequently,No
+E00525,Technology,49,2.6,No,1,2,4,7043,Rarely,No
+E00526,Finance,53,5.5,Yes,4,2,1,4020,None,Yes
+E00527,Sales,32,14.0,No,2,2,3,7174,Rarely,No
+E00528,Operations,60,3.1,Yes,2,4,4,7299,None,No
+E00529,Customer Support,35,5.4,No,2,2,3,6854,None,No
+E00530,Finance,47,4.0,No,1,3,2,3767,Rarely,Yes
+E00531,Customer Support,46,17.1,No,4,4,4,8839,None,No
+E00532,Technology,39,12.1,Yes,4,1,2,5372,Frequently,No
+E00533,Customer Support,32,9.0,No,3,3,4,7461,Rarely,No
+E00534,HR,42,5.1,No,4,4,2,4791,None,No
+E00535,Sales,31,11.9,No,3,3,1,3907,Frequently,Yes
+E00536,Customer Support,32,6.7,No,2,1,1,3540,Rarely,Yes
+E00537,Sales,58,4.4,Yes,4,3,5,8199,None,No
+E00538,Technology,55,11.2,No,4,1,1,4754,None,No
+E00539,Finance,28,1.5,Yes,1,2,3,5678,Rarely,No
+E00540,Sales,23,3.6,No,3,4,1,3339,Rarely,Yes
+E00541,Finance,28,1.3,Yes,4,2,1,3356,Rarely,Yes
+E00542,Finance,42,2.8,No,2,4,1,4171,Rarely,Yes
+E00543,Customer Support,33,5.7,No,2,4,1,3677,Rarely,Yes
+E00544,Technology,32,3.0,Yes,1,4,5,7458,None,No
+E00545,Technology,59,17.6,No,1,3,3,6829,None,No
+E00546,Operations,45,2.9,No,3,1,1,4269,None,Yes
+E00547,Operations,30,4.8,No,4,1,1,3850,None,Yes
+E00548,Sales,55,7.7,Yes,4,3,5,8865,Rarely,No
+E00549,Customer Support,42,3.5,No,4,2,4,7804,None,No
+E00550,Operations,57,8.1,No,4,3,2,4982,None,No
+E00551,Finance,41,4.2,Yes,2,4,4,7408,None,No
+E00552,HR,24,6.0,No,3,4,1,4140,Rarely,Yes
+E00553,Operations,39,6.9,Yes,1,4,3,5572,Rarely,Yes
+E00554,Technology,38,4.0,No,2,4,1,3079,Rarely,Yes
+E00555,Operations,35,7.1,Yes,3,4,3,6614,Rarely,No
+E00556,Technology,54,2.2,Yes,4,4,3,5889,Rarely,No
+E00557,Customer Support,26,5.8,No,4,3,2,5797,Rarely,No
+E00558,Operations,37,5.0,Yes,2,3,3,6613,Rarely,No
+E00559,Sales,43,11.6,No,3,1,1,5313,None,No
+E00560,Sales,50,4.6,Yes,4,4,2,4447,Rarely,Yes
+E00561,Sales,56,3.4,No,1,1,1,5167,Frequently,Yes
+E00562,Sales,45,8.9,No,3,2,2,5536,Frequently,No
+E00563,Customer Support,21,3.0,No,4,2,2,4457,Rarely,No
+E00564,HR,39,1.5,No,2,1,5,8161,None,No
+E00565,Operations,33,7.0,No,4,4,1,4268,Rarely,No
+E00566,Operations,56,23.2,Yes,2,4,1,5967,None,No
+E00567,Technology,45,1.8,No,2,4,3,6026,None,No
+E00568,Sales,22,4.0,Yes,1,1,4,8100,None,No
+E00569,Finance,47,2.9,No,3,3,3,6427,Rarely,Yes
+E00570,Finance,29,3.8,No,1,2,1,3976,Rarely,Yes
+E00571,Sales,40,8.1,Yes,1,4,3,5646,None,Yes
+E00572,HR,24,5.5,No,2,3,1,4437,None,Yes
+E00573,Finance,33,12.7,No,3,4,1,4799,None,No
+E00574,Technology,52,7.4,Yes,3,2,4,6801,Rarely,No
+E00575,Customer Support,28,3.6,Yes,4,2,1,3230,Rarely,Yes
+E00576,Finance,41,7.5,No,3,2,3,5441,None,No
+E00577,Technology,23,3.9,Yes,1,3,4,8118,Rarely,No
+E00578,Customer Support,59,5.3,Yes,2,1,1,4481,None,Yes
+E00579,Customer Support,23,5.0,Yes,1,4,2,5399,None,No
+E00580,Customer Support,51,8.1,No,1,2,3,6229,None,No
+E00581,Sales,39,5.5,No,4,1,3,7206,Rarely,No
+E00582,Finance,58,8.5,Yes,4,3,4,7042,None,No
+E00583,Operations,40,1.4,No,1,1,4,6458,None,No
+E00584,Sales,38,12.5,Yes,3,4,4,8657,Rarely,No
+E00585,Finance,30,1.7,No,3,4,2,3906,Rarely,Yes
+E00586,Sales,32,5.3,No,2,4,1,3283,Frequently,Yes
+E00587,Finance,38,11.2,No,1,4,2,5911,Rarely,No
+E00588,Sales,28,3.7,No,4,4,5,7868,Rarely,No
+E00589,Operations,46,4.2,No,2,4,3,5564,None,Yes
+E00590,Technology,21,2.9,Yes,1,2,4,5651,Rarely,Yes
+E00591,Customer Support,39,3.1,Yes,4,4,2,5253,None,Yes
+E00592,Customer Support,34,3.7,Yes,4,2,2,4603,Rarely,Yes
+E00593,Technology,24,6.0,No,2,1,1,4409,Rarely,Yes
+E00594,Customer Support,21,3.0,No,3,3,3,6249,Rarely,Yes
+E00595,Finance,56,6.4,No,1,1,1,3144,Rarely,Yes
+E00596,Customer Support,47,6.7,No,2,2,3,6892,Rarely,No
+E00597,Operations,38,13.4,Yes,1,1,2,4436,Frequently,Yes
+E00598,Sales,43,4.2,No,2,1,2,4666,None,Yes
+E00599,Sales,56,0.9,No,2,3,1,4430,None,Yes
+E00600,Sales,43,3.6,No,1,3,4,6511,Rarely,No
+E00601,Customer Support,47,4.0,Yes,4,4,1,3454,Rarely,Yes
+E00602,Operations,51,14.3,Yes,3,1,2,5019,None,Yes
+E00603,Sales,26,0.4,Yes,3,3,3,5433,None,Yes
+E00604,Operations,42,9.7,No,4,1,4,7527,None,No
+E00605,Technology,50,1.6,Yes,2,4,2,4944,Rarely,Yes
+E00606,Sales,55,16.4,No,3,3,4,8945,Rarely,No
+E00607,Sales,55,15.1,Yes,3,2,3,7550,None,No
+E00608,Customer Support,59,5.1,No,2,2,1,3870,Rarely,Yes
+E00609,Operations,45,8.2,No,3,2,1,3977,Rarely,Yes
+E00610,Finance,45,12.0,No,2,2,4,7593,None,No
+E00611,Sales,32,7.4,Yes,4,3,1,4362,None,Yes
+E00612,Operations,56,3.5,No,3,2,3,6544,Frequently,No
+E00613,Customer Support,51,16.0,No,2,1,2,7844,None,No
+E00614,HR,29,10.6,Yes,1,3,1,5958,Rarely,Yes
+E00615,Operations,31,3.6,No,4,1,4,7109,None,No
+E00616,Finance,37,16.4,Yes,2,1,2,5424,Rarely,No
+E00617,Finance,52,5.1,Yes,1,1,2,5395,Frequently,Yes
+E00618,Finance,58,5.7,No,2,1,2,5696,Rarely,Yes
+E00619,Sales,53,5.2,No,2,1,3,6156,None,No
+E00620,Finance,37,4.1,No,1,1,1,3653,Rarely,Yes
+E00621,Sales,30,10.9,No,4,3,4,7265,None,No
+E00622,Operations,49,1.1,No,2,1,1,3870,Rarely,Yes
+E00623,Sales,21,3.0,No,4,3,4,8256,Rarely,No
+E00624,Customer Support,50,9.7,No,3,4,1,4487,None,No
+E00625,Technology,57,8.8,No,4,2,1,4361,Rarely,Yes
+E00626,Technology,45,6.7,No,1,4,1,2712,Rarely,Yes
+E00627,Customer Support,45,1.7,Yes,4,3,2,5319,Rarely,No
+E00628,Customer Support,35,11.7,No,3,4,2,5844,Rarely,No
+E00629,HR,27,4.8,Yes,1,3,5,9655,Rarely,No
+E00630,Sales,47,13.4,Yes,3,2,3,7444,Rarely,No
+E00631,Operations,26,8.0,No,3,4,3,5990,None,No
+E00632,Operations,45,8.0,Yes,4,2,3,6949,Rarely,No
+E00633,Technology,58,1.0,No,4,2,3,6084,None,No
+E00634,Finance,38,7.7,Yes,3,3,1,3903,Rarely,Yes
+E00635,Sales,33,15.0,Yes,4,2,3,6858,Rarely,No
+E00636,Sales,49,2.8,No,3,3,2,4573,Rarely,Yes
+E00637,HR,49,10.8,No,4,3,1,4877,Rarely,No
+E00638,Finance,53,1.8,Yes,1,4,1,2950,None,Yes
+E00639,HR,46,6.1,No,2,1,2,5615,Rarely,No
+E00640,Customer Support,35,6.1,No,3,2,4,7360,None,No
+E00641,Sales,59,4.8,No,3,1,2,5260,None,No
+E00642,Operations,22,4.0,Yes,2,3,5,8578,None,No
+E00643,HR,29,11.0,No,4,2,2,6316,Rarely,No
+E00644,Sales,59,8.1,No,2,3,2,5934,Frequently,No
+E00645,Sales,39,3.2,No,1,3,1,3768,Rarely,Yes
+E00646,HR,59,12.0,No,4,2,1,4606,Rarely,Yes
+E00647,Operations,52,1.6,No,3,3,3,6500,Rarely,No
+E00648,Sales,41,5.0,No,4,2,3,5700,None,No
+E00649,Operations,59,8.5,No,2,3,2,5617,Rarely,No
+E00650,Technology,36,10.7,No,2,4,2,5410,None,Yes
+E00651,Technology,29,3.8,No,2,2,1,4144,Rarely,Yes
+E00652,Technology,36,4.6,No,4,3,1,4503,Rarely,Yes
+E00653,Customer Support,57,5.1,Yes,3,2,2,5421,None,Yes
+E00654,Sales,32,9.5,Yes,3,1,5,8483,Rarely,No
+E00655,Sales,59,5.7,No,2,3,3,6002,Rarely,No
+E00656,Technology,55,9.9,Yes,3,1,2,4838,None,Yes
+E00657,Customer Support,23,4.6,Yes,4,1,4,7580,None,No
+E00658,Sales,56,3.3,Yes,1,4,2,4181,Rarely,Yes
+E00659,Technology,60,3.5,Yes,4,2,3,5223,None,No
+E00660,Customer Support,24,6.0,Yes,2,2,3,5799,Frequently,No
+E00661,Technology,41,15.0,Yes,3,3,2,6046,Rarely,No
+E00662,Technology,21,3.0,No,3,2,2,4667,Rarely,Yes
+E00663,Customer Support,44,21.0,Yes,2,1,3,7317,Rarely,No
+E00664,Customer Support,59,4.1,No,3,3,2,5198,Rarely,Yes
+E00665,Technology,31,4.9,No,4,2,1,4405,None,Yes
+E00666,Operations,26,8.0,No,2,3,3,6961,None,No
+E00667,Customer Support,38,4.8,No,4,4,5,7614,Rarely,No
+E00668,Sales,26,5.3,No,1,2,1,4423,Rarely,Yes
+E00669,Technology,57,6.6,No,1,4,4,7800,None,No
+E00670,Technology,38,0.4,No,4,1,1,3200,Frequently,Yes
+E00671,Operations,32,2.3,Yes,1,4,1,3977,None,Yes
+E00672,Customer Support,56,8.2,Yes,4,4,2,4578,Rarely,Yes
+E00673,Operations,53,6.1,Yes,3,4,2,5668,Rarely,No
+E00674,Operations,59,10.6,No,3,2,2,5388,None,No
+E00675,Technology,47,7.5,No,1,4,4,7598,Frequently,No
+E00676,Technology,42,2.4,No,4,3,3,5321,None,Yes
+E00677,Sales,22,0.9,No,3,4,3,4435,Frequently,Yes
+E00678,Technology,50,4.5,No,1,2,5,8437,Rarely,No
+E00679,Technology,40,10.5,No,3,3,3,7128,Rarely,No
+E00680,Sales,35,3.5,No,3,3,2,4663,None,Yes
+E00681,Finance,43,7.1,No,2,2,3,6209,Rarely,No
+E00682,Sales,52,6.8,No,2,2,5,9046,None,No
+E00683,Operations,60,3.8,No,1,2,1,3342,None,Yes
+E00684,Operations,30,12.0,No,2,3,4,7976,None,No
+E00685,Customer Support,55,5.3,No,2,1,4,7742,Rarely,No
+E00686,Sales,38,6.0,No,4,1,4,7252,Rarely,No
+E00687,Sales,58,18.0,No,4,1,5,10189,Rarely,No
+E00688,Sales,30,2.8,No,3,1,3,5029,None,Yes
+E00689,Customer Support,60,2.7,Yes,2,1,5,7496,None,No
+E00690,Sales,45,5.5,No,3,4,3,7489,None,No
+E00691,Sales,32,5.8,Yes,4,1,1,3739,None,Yes
+E00692,Operations,31,10.8,No,3,2,3,7186,Frequently,No
+E00693,Operations,58,15.1,No,1,2,1,5228,None,No
+E00694,HR,25,5.0,Yes,2,3,3,6709,Frequently,No
+E00695,Operations,54,5.7,No,3,3,4,7213,Rarely,No
+E00696,Sales,47,2.6,No,4,2,4,7130,Frequently,No
+E00697,HR,26,4.2,No,4,2,1,3475,Rarely,Yes
+E00698,Technology,28,10.0,No,1,3,3,5866,Rarely,Yes
+E00699,Customer Support,59,15.3,Yes,3,1,3,7475,None,No
+E00700,Sales,27,4.2,No,1,2,2,5274,Frequently,Yes
+E00701,Sales,33,1.9,No,2,3,2,4704,Rarely,Yes
+E00702,Sales,37,5.7,No,2,2,4,6270,Rarely,No
+E00703,Operations,31,8.1,No,4,1,1,3880,Frequently,Yes
+E00704,Technology,32,2.4,Yes,2,3,2,4502,None,Yes
+E00705,Customer Support,47,4.2,No,3,2,1,3514,None,Yes
+E00706,Finance,39,4.5,No,4,4,3,6314,Rarely,No
+E00707,HR,59,14.5,No,3,4,1,5296,None,No
+E00708,Operations,52,4.0,Yes,4,3,3,5954,None,Yes
+E00709,Technology,51,3.3,No,3,2,2,5806,Rarely,No
+E00710,Sales,40,6.6,No,4,1,2,4931,Frequently,Yes
+E00711,Sales,28,5.8,No,3,2,1,3126,Rarely,Yes
+E00712,Customer Support,50,23.9,No,2,3,2,7354,None,No
+E00713,Finance,53,12.4,No,2,2,5,9424,None,No
+E00714,Operations,59,13.3,No,3,1,2,5576,None,Yes
+E00715,Operations,44,2.1,No,2,3,4,7042,None,No
+E00716,Technology,21,2.0,No,1,1,2,5884,None,Yes
+E00717,Customer Support,56,2.7,No,1,3,2,4769,Rarely,Yes
+E00718,Customer Support,37,12.8,Yes,3,2,4,7141,Rarely,No
+E00719,HR,58,11.5,No,2,2,4,7402,None,No
+E00720,HR,28,7.0,No,3,1,3,6527,Rarely,No
+E00721,Customer Support,57,1.5,No,4,1,2,5242,None,Yes
+E00722,Sales,39,8.2,No,3,2,1,4476,None,Yes
+E00723,Technology,53,10.2,No,3,2,2,5430,None,No
+E00724,Finance,50,4.2,No,1,1,1,4614,None,Yes
+E00725,Customer Support,39,8.5,No,3,2,4,7256,Rarely,No
+E00726,HR,47,8.7,No,3,2,2,5236,Rarely,Yes
+E00727,Customer Support,44,5.7,No,3,1,3,5249,None,Yes
+E00728,Technology,34,13.9,No,1,1,4,9349,None,No
+E00729,Sales,59,5.1,No,2,3,2,4943,Rarely,Yes
+E00730,Operations,29,8.1,No,2,4,2,4772,None,Yes
+E00731,Finance,53,2.5,No,2,3,2,5466,None,Yes
+E00732,Operations,57,3.9,No,2,1,4,6767,None,No
+E00733,Customer Support,44,13.1,Yes,1,3,1,4022,Frequently,Yes
+E00734,Technology,46,2.7,Yes,3,1,1,4196,None,Yes
+E00735,Operations,33,3.3,Yes,2,4,1,4667,Frequently,Yes
+E00736,Sales,25,7.0,No,1,4,1,4289,Rarely,Yes
+E00737,Finance,32,4.1,No,1,1,1,3131,None,Yes
+E00738,Operations,46,1.9,No,4,4,1,4276,Rarely,Yes
+E00739,Operations,54,3.6,Yes,3,3,3,6593,None,No
+E00740,HR,41,7.0,No,3,4,1,4322,Rarely,Yes
+E00741,Customer Support,46,4.6,No,3,1,3,5784,None,No
+E00742,Operations,39,16.3,Yes,1,3,3,6657,Rarely,No
+E00743,HR,59,14.4,No,3,3,3,6810,Rarely,No
+E00744,Operations,46,7.0,No,4,4,2,5692,Rarely,No
+E00745,Operations,30,3.6,Yes,1,1,3,6285,Rarely,No
+E00746,Technology,52,3.4,No,4,1,3,5572,Frequently,No
+E00747,Finance,45,0.9,No,1,4,1,3409,Frequently,Yes
+E00748,Sales,54,10.9,No,1,4,1,4804,None,Yes
+E00749,Customer Support,41,0.7,No,3,4,1,4086,None,Yes
+E00750,Finance,46,12.3,No,1,2,4,7988,Rarely,No
+E00751,Sales,24,6.0,No,2,2,2,4737,Rarely,Yes
+E00752,Sales,58,23.8,No,4,4,1,5056,Rarely,No
+E00753,Operations,39,16.6,No,4,3,3,7457,Rarely,No
+E00754,Sales,44,4.8,Yes,2,2,4,6921,Rarely,No
+E00755,Technology,44,1.5,No,4,3,1,3134,Frequently,Yes
+E00756,Sales,36,4.0,No,1,1,3,6136,Rarely,Yes
+E00757,Technology,57,8.9,No,2,1,2,4484,Rarely,Yes
+E00758,Technology,42,10.9,No,1,3,2,5566,Rarely,No
+E00759,Technology,51,1.7,No,4,1,2,4033,None,Yes
+E00760,Customer Support,55,4.3,No,3,2,1,3614,Rarely,Yes
+E00761,HR,31,2.6,No,2,4,3,6278,Rarely,No
+E00762,Customer Support,39,12.2,No,4,4,1,4225,Frequently,Yes
+E00763,Customer Support,48,8.9,No,2,1,1,3856,Frequently,Yes
+E00764,Technology,35,10.5,Yes,1,3,3,6894,Rarely,No
+E00765,Technology,39,11.4,No,4,3,3,6055,Rarely,No
+E00766,Technology,54,12.9,No,2,2,2,5562,Frequently,Yes
+E00767,Customer Support,36,8.5,Yes,3,3,1,4599,Rarely,Yes
+E00768,Operations,43,10.1,No,2,2,3,6415,None,No
+E00769,Sales,22,2.4,Yes,4,1,4,7286,None,No
+E00770,Customer Support,30,4.3,No,2,2,3,4990,Frequently,No
+E00771,Finance,41,10.0,No,1,3,1,4266,None,Yes
+E00772,Customer Support,32,2.0,Yes,4,2,1,4198,Rarely,Yes
+E00773,Operations,55,12.3,No,4,3,2,5607,Rarely,No
+E00774,Sales,21,3.0,No,3,3,4,6025,Rarely,Yes
+E00775,Technology,21,3.0,Yes,4,2,1,3077,Rarely,Yes
+E00776,Operations,33,2.2,No,4,1,1,3896,None,Yes
+E00777,Operations,42,4.9,No,2,1,1,3133,None,Yes
+E00778,HR,41,9.2,Yes,4,2,1,4332,None,Yes
+E00779,Technology,24,2.0,Yes,4,1,2,4169,None,Yes
+E00780,Technology,60,8.8,Yes,2,4,2,4302,Frequently,Yes
+E00781,Finance,59,4.3,Yes,3,4,4,6735,None,No
+E00782,Sales,39,19.6,No,4,3,3,7499,None,No
+E00783,Finance,27,1.5,Yes,1,3,4,7695,None,No
+E00784,Finance,59,3.6,Yes,4,2,2,5936,None,No
+E00785,Sales,55,20.6,No,4,3,3,6995,None,No
+E00786,Finance,46,3.5,No,3,4,1,3287,Rarely,Yes
+E00787,Operations,33,13.9,No,4,4,1,4967,None,No
+E00788,Technology,36,2.0,No,1,2,2,4680,Rarely,Yes
+E00789,Technology,21,3.0,No,1,1,3,5762,None,Yes
+E00790,Technology,55,3.5,Yes,1,2,4,6456,None,Yes
+E00791,Technology,41,8.3,No,3,1,4,7578,Rarely,No
+E00792,Operations,38,5.0,No,1,4,1,4330,Rarely,Yes
+E00793,Customer Support,27,4.3,Yes,1,2,2,4323,None,Yes
+E00794,Customer Support,59,7.9,Yes,3,2,2,4868,Rarely,Yes
+E00795,Sales,44,4.1,No,4,2,2,4847,Rarely,Yes
+E00796,HR,56,2.5,No,1,4,4,6389,Rarely,No
+E00797,Technology,33,15.0,No,1,3,2,5369,Rarely,No
+E00798,Technology,58,4.7,Yes,2,3,3,6565,None,Yes
+E00799,Customer Support,38,1.8,No,4,2,2,3925,Rarely,Yes
+E00800,Sales,31,8.4,No,2,3,5,8651,Rarely,No
+E00801,Sales,58,5.4,No,1,3,4,7017,Frequently,No
+E00802,HR,37,7.2,Yes,4,4,1,3892,Rarely,Yes
+E00803,Sales,27,2.4,No,2,3,4,7151,Frequently,No
+E00804,Sales,50,2.3,Yes,3,2,1,3562,Rarely,Yes
+E00805,Sales,34,6.7,No,3,3,2,5911,Rarely,No
+E00806,Finance,27,3.1,No,1,3,3,5188,Rarely,Yes
+E00807,HR,41,14.8,Yes,2,3,5,8896,Rarely,No
+E00808,Sales,47,4.3,Yes,2,3,2,4799,Rarely,Yes
+E00809,Finance,48,1.9,No,2,3,1,3400,Rarely,Yes
+E00810,Technology,25,6.7,No,4,2,1,4285,None,Yes
+E00811,Technology,41,12.8,No,4,1,4,8006,None,No
+E00812,Sales,45,8.8,No,3,4,1,5179,Rarely,Yes
+E00813,Technology,24,3.1,Yes,3,3,1,4101,None,Yes
+E00814,Customer Support,35,5.3,No,3,3,2,4685,None,Yes
+E00815,Operations,24,1.0,No,4,1,2,4338,None,Yes
+E00816,Finance,36,9.8,No,2,4,4,7765,Rarely,No
+E00817,Sales,59,7.0,Yes,3,4,3,6782,Rarely,No
+E00818,Technology,21,0.2,No,2,4,1,3089,Rarely,Yes
+E00819,HR,44,5.8,No,1,4,4,8062,None,No
+E00820,HR,44,11.1,No,2,2,1,4243,Rarely,Yes
+E00821,Technology,37,7.1,Yes,3,2,3,5994,Rarely,No
+E00822,Sales,30,12.0,Yes,4,4,4,7500,Rarely,No
+E00823,Operations,46,3.6,No,3,2,1,4216,Frequently,Yes
+E00824,Sales,42,4.4,No,2,3,3,4968,None,Yes
+E00825,Sales,32,1.5,No,4,2,1,3557,None,Yes
+E00826,Technology,49,6.8,No,1,4,3,6184,Frequently,No
+E00827,Technology,55,6.9,No,2,2,3,6663,Rarely,No
+E00828,Technology,48,5.0,No,4,1,4,8097,None,No
+E00829,Finance,28,10.0,Yes,2,3,1,3723,None,Yes
+E00830,Customer Support,49,2.8,Yes,2,4,2,4075,Rarely,Yes
+E00831,HR,48,2.4,No,2,4,4,7230,Rarely,No
+E00832,Sales,56,2.7,No,3,4,1,2889,None,Yes
+E00833,Technology,49,7.8,No,3,4,3,6767,None,No
+E00834,Customer Support,57,4.9,No,1,3,2,6005,Rarely,No
+E00835,Customer Support,38,17.9,No,2,1,4,8349,Frequently,No
+E00836,Finance,25,4.8,No,2,1,3,5477,None,No
+E00837,Operations,21,1.6,No,4,3,4,7562,None,No
+E00838,Sales,34,3.5,Yes,3,1,2,4240,Rarely,Yes
+E00839,Technology,58,13.5,No,2,1,2,5950,Frequently,No
+E00840,Sales,41,1.5,No,4,3,2,5138,Frequently,Yes
+E00841,Sales,26,5.0,Yes,3,3,2,4522,Rarely,Yes
+E00842,Technology,39,12.5,No,3,1,2,5585,Rarely,Yes
+E00843,Sales,31,13.0,No,3,2,2,6213,Rarely,No
+E00844,Sales,53,4.0,No,1,1,1,3236,None,Yes
+E00845,Customer Support,59,3.7,No,3,2,1,4408,Rarely,No
+E00846,Sales,44,4.2,No,2,3,2,4636,Rarely,Yes
+E00847,Operations,24,6.0,No,2,4,2,5151,None,Yes
+E00848,Customer Support,58,8.7,No,4,2,3,6817,Rarely,No
+E00849,HR,25,1.9,No,4,4,2,3750,Frequently,Yes
+E00850,Customer Support,53,13.2,No,1,2,1,3915,Frequently,Yes
+E00851,Sales,21,3.0,No,4,1,2,5218,Frequently,Yes
+E00852,Technology,44,5.9,No,2,1,2,5388,Frequently,No
+E00853,Customer Support,49,3.4,Yes,1,3,1,3990,Rarely,Yes
+E00854,Sales,44,10.2,No,2,1,3,7097,Rarely,No
+E00855,Technology,24,2.4,No,4,4,3,5745,None,No
+E00856,Customer Support,43,2.9,No,1,4,1,3608,None,Yes
+E00857,Sales,57,6.6,No,3,1,3,7073,Rarely,No
+E00858,Operations,60,3.3,No,4,1,4,7046,None,No
+E00859,Technology,22,2.9,Yes,3,1,5,7164,None,No
+E00860,Operations,46,12.4,No,1,4,2,5154,None,No
+E00861,HR,22,4.0,No,4,1,1,2710,Rarely,Yes
+E00862,Technology,58,1.4,Yes,4,4,3,5081,None,Yes
+E00863,Operations,58,7.7,No,1,2,1,3834,None,Yes
+E00864,Technology,58,12.0,No,4,4,2,3589,Frequently,Yes
+E00865,Technology,46,3.3,No,4,1,4,6852,Rarely,No
+E00866,Sales,37,10.5,No,2,3,2,4783,None,Yes
+E00867,Technology,24,4.0,Yes,1,1,1,3221,Frequently,Yes
+E00868,Sales,53,5.2,Yes,1,4,3,5855,Rarely,No
+E00869,Technology,39,11.7,No,2,3,3,7574,None,No
+E00870,Technology,30,7.5,Yes,4,3,2,5519,Rarely,Yes
+E00871,Sales,57,5.6,No,3,3,1,4592,Rarely,Yes
+E00872,Operations,25,7.0,Yes,4,1,1,3012,Rarely,Yes
+E00873,Technology,44,9.6,No,4,2,2,6077,Rarely,No
+E00874,Sales,60,7.0,No,3,2,2,5412,Rarely,No
+E00875,Operations,38,3.1,Yes,3,4,3,5323,Frequently,Yes
+E00876,Customer Support,33,8.5,Yes,3,3,2,5229,Frequently,Yes
+E00877,Customer Support,31,2.8,No,4,2,4,6445,None,No
+E00878,Operations,50,5.1,No,2,1,3,6548,Rarely,No
+E00879,Technology,38,3.6,No,3,1,1,3222,Rarely,Yes
+E00880,Finance,44,1.7,No,3,3,1,2921,Rarely,Yes
+E00881,Operations,34,4.9,No,2,2,2,5336,Rarely,Yes
+E00882,HR,38,7.7,No,2,3,2,5400,None,Yes
+E00883,Technology,24,6.0,No,4,1,4,6583,None,No
+E00884,Operations,39,5.9,No,1,2,1,3305,None,Yes
+E00885,Technology,54,5.7,Yes,2,3,2,5123,Rarely,Yes
+E00886,Customer Support,28,7.0,No,4,2,1,4542,Rarely,Yes
+E00887,Customer Support,56,10.4,No,1,4,5,8634,Frequently,No
+E00888,Operations,29,11.0,No,1,3,2,5590,None,No
+E00889,Customer Support,27,7.9,No,4,4,4,8061,Frequently,No
+E00890,HR,34,6.9,No,4,2,2,4894,Rarely,Yes
+E00891,Sales,38,20.0,Yes,2,3,1,4962,Frequently,Yes
+E00892,Finance,36,5.5,No,3,4,5,8871,None,No
+E00893,Sales,26,8.0,No,3,1,1,5056,None,Yes
+E00894,Operations,54,4.9,Yes,2,3,4,8462,Frequently,No
+E00895,Sales,32,6.5,Yes,3,3,1,4231,Rarely,Yes
+E00896,Technology,31,13.0,No,4,1,3,6979,None,No
+E00897,Technology,59,15.6,No,1,2,5,9410,Rarely,No
+E00898,Sales,31,8.5,Yes,3,3,2,5086,Frequently,No
+E00899,Customer Support,29,9.4,No,1,2,1,5548,Rarely,Yes
+E00900,Sales,37,5.6,No,3,4,2,4513,Frequently,Yes
+E00901,Finance,52,6.8,No,4,3,2,5335,Rarely,No
+E00902,Operations,55,12.4,No,1,1,5,9255,None,No
+E00903,Operations,55,5.6,No,3,3,3,5776,Rarely,No
+E00904,Technology,46,0.6,No,4,2,3,4410,Frequently,No
+E00905,Technology,28,8.5,No,2,2,3,5790,Rarely,No
+E00906,Finance,56,3.3,No,3,3,1,4146,Frequently,Yes
+E00907,Technology,38,9.8,No,1,3,1,3020,Frequently,Yes
+E00908,Customer Support,42,2.0,No,4,3,1,3265,Rarely,Yes
+E00909,HR,31,10.6,Yes,3,3,1,4693,Rarely,Yes
+E00910,Operations,31,1.3,No,3,1,4,6922,Frequently,No
+E00911,Technology,46,9.6,Yes,3,2,2,4457,Frequently,Yes
+E00912,Sales,38,5.2,No,1,3,2,6634,Rarely,No
+E00913,Sales,41,12.2,No,4,1,1,5853,None,No
+E00914,Operations,38,9.2,Yes,1,2,1,3642,None,Yes
+E00915,Technology,35,2.9,No,4,3,1,4740,None,No
+E00916,Technology,41,6.1,Yes,2,3,4,7471,None,No
+E00917,Technology,44,2.0,No,1,1,1,3568,Frequently,Yes
+E00918,Operations,59,2.5,No,4,4,1,4220,Rarely,Yes
+E00919,Sales,49,6.1,No,2,1,3,7222,None,No
+E00920,Customer Support,22,3.8,Yes,4,2,2,4073,Rarely,Yes
+E00921,Sales,33,3.3,No,2,4,1,3189,None,Yes
+E00922,Customer Support,38,5.0,No,3,4,2,4963,Rarely,Yes
+E00923,HR,27,3.2,No,2,2,1,2903,Frequently,Yes
+E00924,Finance,29,5.2,No,1,2,2,5284,Rarely,Yes
+E00925,Finance,55,7.6,No,2,4,4,7891,None,No
+E00926,Sales,54,2.0,No,3,3,3,5411,Frequently,No
+E00927,Sales,24,6.0,No,1,3,1,3848,Rarely,Yes
+E00928,Technology,40,8.5,No,3,1,4,7280,Rarely,No
+E00929,Technology,21,3.0,Yes,4,4,4,6849,None,No
+E00930,Technology,57,13.3,No,3,3,1,4417,Frequently,Yes
+E00931,Operations,54,4.9,No,2,1,2,4521,Rarely,Yes
+E00932,Sales,34,10.8,Yes,3,4,4,7484,None,No
+E00933,Operations,49,2.6,Yes,3,3,1,3101,Frequently,Yes
+E00934,Technology,28,8.5,Yes,3,2,3,6449,Rarely,No
+E00935,Technology,53,3.8,No,4,4,3,6411,Rarely,No
+E00936,Technology,24,3.0,Yes,1,2,1,2798,None,Yes
+E00937,Operations,50,4.0,No,4,1,5,7503,None,No
+E00938,Technology,37,9.5,Yes,2,1,2,5745,None,Yes
+E00939,Customer Support,29,3.6,No,1,3,2,4632,Rarely,Yes
+E00940,Operations,34,5.7,No,1,1,3,6802,Rarely,No
+E00941,Finance,49,10.1,No,4,3,2,6127,None,No
+E00942,Operations,47,7.8,No,1,3,2,4538,Rarely,Yes
+E00943,Technology,52,10.7,No,4,3,3,6350,Frequently,No
+E00944,HR,40,5.3,Yes,2,2,4,7248,Rarely,No
+E00945,Operations,60,3.7,No,4,3,2,5670,None,No
+E00946,Sales,43,6.5,No,2,4,2,3938,Frequently,Yes
+E00947,Sales,33,5.5,No,3,1,1,3608,Frequently,Yes
+E00948,Customer Support,41,13.6,No,2,3,3,6867,Frequently,No
+E00949,Customer Support,57,7.7,No,4,2,5,8090,Frequently,No
+E00950,Customer Support,32,10.2,Yes,4,1,1,4014,Frequently,Yes
+E00951,Finance,37,3.7,No,4,3,1,3221,Frequently,Yes
+E00952,Technology,21,3.0,No,1,2,3,6248,Rarely,No
+E00953,Customer Support,47,6.5,Yes,3,3,2,5595,Rarely,Yes
+E00954,Sales,49,1.3,No,2,4,3,7142,None,No
+E00955,Technology,58,4.7,Yes,1,1,2,4400,Rarely,Yes
+E00956,Sales,21,1.0,Yes,1,4,5,8044,Frequently,No
+E00957,Technology,56,12.2,No,2,3,4,8247,None,No
+E00958,Operations,43,5.8,Yes,2,3,4,7858,None,No
+E00959,Finance,58,7.9,No,1,1,2,5788,Rarely,No
+E00960,Sales,38,7.2,Yes,2,1,1,4340,Rarely,Yes
+E00961,Technology,53,3.1,No,4,4,2,4842,Rarely,Yes
+E00962,Sales,50,3.5,No,2,3,2,4739,Frequently,Yes
+E00963,Customer Support,35,3.1,No,3,3,1,3494,Rarely,Yes
+E00964,Technology,28,4.9,No,1,2,1,4425,Rarely,Yes
+E00965,Technology,32,3.4,Yes,3,4,3,6970,None,No
+E00966,Technology,40,4.2,No,1,1,5,8374,Frequently,No
+E00967,Sales,45,15.2,No,3,3,3,7649,None,No
+E00968,Finance,43,1.5,Yes,4,4,3,5561,Rarely,Yes
+E00969,Operations,57,12.1,No,3,4,1,4247,Rarely,Yes
+E00970,Sales,51,6.3,Yes,3,2,1,4140,None,Yes
+E00971,HR,28,1.3,No,3,2,3,4767,None,Yes
+E00972,Finance,45,6.3,Yes,2,1,3,4737,None,Yes
+E00973,Technology,55,3.7,Yes,3,2,1,3048,Rarely,Yes
+E00974,Technology,39,0.8,No,3,2,2,5005,Rarely,No
+E00975,Sales,47,12.5,No,2,3,2,6170,None,No
+E00976,Customer Support,23,5.0,Yes,4,2,2,4969,None,Yes
+E00977,HR,40,7.9,Yes,3,1,3,6526,Frequently,No
+E00978,Technology,40,7.1,Yes,2,3,4,8994,Rarely,No
+E00979,Customer Support,37,2.1,No,1,3,2,4661,Rarely,Yes
+E00980,Technology,23,5.0,No,1,1,1,3646,Rarely,Yes
+E00981,Technology,30,1.4,Yes,4,4,2,5021,None,Yes
+E00982,Operations,37,10.8,No,1,3,3,7947,Frequently,No
+E00983,Sales,38,3.2,No,4,2,3,5096,None,Yes
+E00984,Finance,39,1.5,No,2,2,2,4389,None,Yes
+E00985,Customer Support,24,5.3,Yes,4,2,3,6356,None,No
+E00986,Technology,37,7.2,No,4,2,4,7041,Rarely,No
+E00987,Technology,47,7.8,No,1,1,1,4486,Rarely,Yes
+E00988,Technology,22,4.0,No,4,2,2,4789,Rarely,Yes
+E00989,Sales,45,12.2,No,2,2,4,7729,None,No
+E00990,Sales,38,7.7,Yes,2,3,2,5211,Rarely,Yes
+E00991,Sales,36,6.6,No,1,4,2,6578,Rarely,No
+E00992,Customer Support,34,2.2,No,4,2,1,3630,Rarely,Yes
+E00993,Sales,22,4.0,Yes,2,1,2,5238,None,Yes
+E00994,HR,32,8.0,Yes,3,3,4,7334,Frequently,No
+E00995,Sales,36,2.9,No,4,4,2,4763,Rarely,Yes
+E00996,Finance,43,7.1,Yes,3,3,2,5369,None,Yes
+E00997,HR,27,5.1,Yes,3,4,1,5295,Rarely,Yes
+E00998,Operations,42,3.4,No,2,1,4,7852,Rarely,No
+E00999,Operations,34,3.3,No,1,3,2,3551,None,Yes
+E01000,Technology,33,4.9,Yes,1,4,1,3343,None,Yes
+E01001,Customer Support,49,3.9,No,4,3,2,4484,None,Yes
+E01002,Technology,50,4.9,No,2,2,1,3778,None,Yes
+E01003,HR,50,1.4,No,3,2,4,7423,None,No
+E01004,Operations,46,8.3,No,1,1,1,4629,None,Yes
+E01005,Operations,48,0.8,Yes,4,2,3,6529,Rarely,No
+E01006,Operations,32,8.3,Yes,2,3,4,7253,Rarely,No
+E01007,Customer Support,42,1.0,Yes,2,4,2,4310,Rarely,Yes
+E01008,Customer Support,42,2.9,No,1,2,4,7460,Rarely,No
+E01009,Technology,42,5.3,No,1,3,1,3523,Rarely,Yes
+E01010,Operations,43,7.7,No,2,3,1,3645,Rarely,Yes
+E01011,Operations,45,3.4,No,3,2,3,6087,Rarely,No
+E01012,Operations,34,10.1,No,4,3,5,8652,Rarely,No
+E01013,Technology,27,1.3,Yes,4,4,1,4105,Rarely,Yes
+E01014,Customer Support,34,9.5,No,1,2,3,8256,None,No
+E01015,Customer Support,50,8.7,No,3,2,3,6397,Rarely,No
+E01016,Operations,34,10.9,No,2,3,1,3945,None,Yes
+E01017,Operations,50,11.7,No,2,1,2,4709,None,Yes
+E01018,Customer Support,29,3.4,Yes,3,3,4,7485,Rarely,No
+E01019,Technology,29,11.0,Yes,2,1,3,7405,Frequently,No
+E01020,Customer Support,36,12.7,No,1,3,1,3649,Rarely,Yes
+E01021,Sales,36,0.5,No,4,4,2,5207,Rarely,No
+E01022,Technology,53,11.2,Yes,3,2,4,8502,Rarely,No
+E01023,Operations,42,4.9,Yes,4,2,3,6675,None,No
+E01024,Sales,52,12.3,Yes,3,4,2,6057,Rarely,No
+E01025,Operations,35,8.1,No,4,2,1,3725,Frequently,Yes
+E01026,Technology,40,22.0,Yes,3,4,2,6267,None,No
+E01027,Customer Support,57,8.1,Yes,3,2,1,4383,None,Yes
+E01028,Sales,59,5.8,Yes,1,2,4,8252,Rarely,No
+E01029,Technology,21,2.6,Yes,4,1,2,5427,Rarely,Yes
+E01030,Customer Support,35,10.2,No,4,1,2,5856,None,No
+E01031,Sales,60,6.1,No,4,1,3,6510,None,No
+E01032,Sales,28,0.7,No,3,1,2,5426,Frequently,Yes
+E01033,Sales,37,6.3,No,4,2,2,4757,None,Yes
+E01034,Customer Support,56,8.7,No,1,4,2,5541,Frequently,Yes
+E01035,Finance,56,5.5,No,4,2,5,8325,Rarely,No
+E01036,Operations,34,1.1,No,3,3,2,4624,Rarely,Yes
+E01037,Operations,58,11.4,No,2,4,1,4770,Rarely,Yes
+E01038,Sales,29,9.5,Yes,4,4,3,6690,Rarely,No
+E01039,HR,42,2.3,Yes,4,4,3,6150,None,No
+E01040,Technology,47,6.5,No,2,1,2,5277,Rarely,No
+E01041,Sales,37,15.4,No,3,3,1,4146,None,Yes
+E01042,Technology,34,4.8,No,2,2,2,4815,Rarely,Yes
+E01043,Sales,52,3.0,No,3,2,3,5775,None,No
+E01044,HR,57,7.7,Yes,2,2,2,5724,Frequently,No
+E01045,Finance,21,1.4,Yes,4,2,2,4434,Rarely,Yes
+E01046,Technology,22,4.0,Yes,3,3,4,7037,Rarely,No
+E01047,Sales,54,3.8,Yes,2,4,2,5277,Rarely,No
+E01048,HR,38,2.6,No,3,1,1,4511,Rarely,Yes
+E01049,Technology,36,5.8,No,2,4,2,4853,Rarely,No
+E01050,Customer Support,45,4.2,Yes,4,2,2,6000,None,No
+E01051,Sales,24,6.0,No,1,4,2,5891,Rarely,Yes
+E01052,Operations,31,3.6,No,2,3,3,6073,None,No
+E01053,Finance,33,3.1,No,2,3,2,5385,None,No
+E01054,Operations,28,1.6,No,1,4,5,8315,Rarely,No
+E01055,HR,43,5.7,Yes,3,1,3,6776,Frequently,No
+E01056,Technology,38,13.7,Yes,4,4,4,8207,Rarely,No
+E01057,Operations,31,9.3,No,2,1,3,7697,Rarely,No
+E01058,Operations,55,13.7,No,4,1,1,3924,Rarely,Yes
+E01059,Technology,34,5.5,No,4,2,1,4209,Rarely,Yes
+E01060,Technology,32,11.5,No,3,1,3,6921,Frequently,No
+E01061,HR,22,4.0,No,4,3,1,4236,Rarely,Yes
+E01062,Operations,38,4.6,Yes,3,1,1,3812,None,Yes
+E01063,Technology,46,2.5,No,2,1,4,6829,Rarely,No
+E01064,Customer Support,43,4.4,No,4,4,2,4755,Frequently,Yes
+E01065,HR,41,0.8,No,2,2,2,4031,Frequently,Yes
+E01066,HR,24,6.0,No,4,1,3,6644,Rarely,No
+E01067,Technology,59,1.6,No,1,3,1,3573,Frequently,Yes
+E01068,Technology,46,4.6,No,3,3,3,6408,None,No
+E01069,Sales,25,5.1,Yes,4,3,4,7029,Rarely,No
+E01070,Finance,59,11.3,Yes,3,4,1,4813,Rarely,Yes
+E01071,Operations,39,3.4,Yes,1,2,1,4550,Frequently,Yes
+E01072,Operations,37,10.0,No,4,4,4,10108,None,No
+E01073,HR,39,12.6,No,1,3,2,5116,Frequently,No
+E01074,Technology,51,1.6,No,1,2,1,3315,None,Yes
+E01075,Finance,42,6.9,Yes,3,2,2,5420,None,No
+E01076,Operations,34,2.0,No,2,4,1,3998,None,Yes
+E01077,Technology,22,4.0,No,1,4,3,5521,Rarely,Yes
+E01078,Operations,46,3.5,No,1,4,3,6275,Frequently,No
+E01079,Sales,21,3.0,No,2,2,2,5270,Rarely,Yes
+E01080,Technology,50,9.2,No,3,3,4,7990,Rarely,No
+E01081,Operations,26,8.0,Yes,3,2,2,6202,None,Yes
+E01082,HR,52,7.1,Yes,4,1,2,5869,None,No
+E01083,Finance,35,6.0,No,4,3,4,8072,Rarely,No
+E01084,Sales,31,5.4,Yes,1,1,2,5438,None,Yes
+E01085,Operations,57,9.1,Yes,1,3,1,4394,Rarely,Yes
+E01086,Operations,30,3.5,Yes,3,3,1,3828,Rarely,Yes
+E01087,Technology,59,19.0,No,3,3,2,6276,Rarely,No
+E01088,Technology,53,7.0,No,4,1,3,6065,None,No
+E01089,Technology,27,9.0,Yes,2,1,3,5915,Rarely,No
+E01090,Technology,41,6.3,Yes,1,4,3,5514,Rarely,No
+E01091,Sales,21,3.0,Yes,4,1,3,5597,Rarely,No
+E01092,Customer Support,49,3.1,No,2,4,1,3466,Rarely,Yes
+E01093,Technology,51,6.1,No,3,1,1,5072,Frequently,Yes
+E01094,Sales,23,5.0,No,3,2,1,3888,None,Yes
+E01095,Operations,38,5.0,No,4,3,2,4388,Rarely,Yes
+E01096,Sales,31,6.7,Yes,2,2,3,6750,None,No
+E01097,Customer Support,27,9.0,No,1,4,1,3936,Frequently,Yes
+E01098,Sales,52,7.5,Yes,4,4,3,6187,Frequently,No
+E01099,Technology,53,2.3,No,2,2,3,5432,None,Yes
+E01100,Operations,22,4.0,Yes,4,2,5,7962,None,No
+E01101,Operations,45,3.0,Yes,2,2,1,3465,None,Yes
+E01102,Operations,36,5.8,Yes,4,3,2,4116,Frequently,Yes
+E01103,Technology,29,0.3,No,3,2,3,5366,Rarely,Yes
+E01104,Finance,29,11.0,No,2,3,2,6016,Rarely,No
+E01105,Customer Support,47,8.5,Yes,4,3,4,8353,Rarely,No
+E01106,Sales,45,3.8,No,3,4,5,7933,None,No
+E01107,Finance,58,4.5,Yes,1,3,1,2466,Frequently,Yes
+E01108,Operations,47,15.2,No,1,2,1,3942,None,Yes
+E01109,Sales,21,3.0,No,4,2,2,4711,None,Yes
+E01110,Sales,32,10.4,No,4,2,1,4263,None,Yes
+E01111,Finance,58,9.2,No,1,2,1,3987,Rarely,Yes
+E01112,Sales,37,5.0,Yes,1,4,2,5137,Rarely,Yes
+E01113,Customer Support,38,10.3,Yes,2,1,3,6684,Rarely,No
+E01114,HR,29,3.0,Yes,1,3,1,2982,None,Yes
+E01115,Technology,49,2.6,No,1,3,3,6472,None,No
+E01116,Finance,26,8.0,No,3,3,4,7626,Rarely,No
+E01117,Finance,41,1.0,No,3,4,1,3142,Rarely,Yes
+E01118,Sales,53,3.0,No,4,1,2,4746,Rarely,Yes
+E01119,HR,52,16.4,No,4,3,1,4943,None,No
+E01120,Finance,34,12.3,No,3,3,1,5299,None,Yes
+E01121,Finance,34,4.6,No,2,2,3,6707,None,No
+E01122,Sales,54,11.1,No,3,1,3,5742,None,No
+E01123,Operations,31,5.8,No,2,1,3,5548,Rarely,Yes
+E01124,Technology,31,0.7,Yes,4,4,2,5366,Rarely,No
+E01125,Technology,25,7.0,No,4,1,3,5241,None,No
+E01126,Operations,45,13.5,Yes,2,2,4,8198,None,No
+E01127,Sales,45,5.1,No,3,3,1,3276,None,Yes
+E01128,HR,40,9.1,No,2,4,1,4017,None,Yes
+E01129,Technology,40,4.8,No,2,3,2,4881,None,Yes
+E01130,Finance,56,12.3,No,3,2,2,6305,Rarely,No
+E01131,Sales,42,3.5,No,4,1,3,5342,None,Yes
+E01132,Customer Support,25,3.0,No,3,2,4,7980,Rarely,No
+E01133,Customer Support,25,6.1,No,4,2,3,5971,None,No
+E01134,Technology,48,18.5,No,4,4,1,5741,None,No
+E01135,Technology,52,8.1,No,1,4,3,6582,Rarely,No
+E01136,Operations,31,6.7,Yes,1,2,4,7750,None,No
+E01137,Technology,57,7.4,Yes,2,2,2,5604,Frequently,Yes
+E01138,Operations,27,5.1,No,2,3,1,3869,Frequently,Yes
+E01139,Operations,28,0.6,No,2,3,4,7400,None,No
+E01140,Technology,38,12.1,No,1,3,1,3525,None,Yes
+E01141,Technology,58,20.3,No,4,3,2,5896,Rarely,No
+E01142,Operations,45,12.3,No,2,2,2,6459,Rarely,No
+E01143,Operations,35,9.3,No,4,3,2,4652,None,No
+E01144,Technology,45,6.4,No,4,4,3,5924,None,No
+E01145,Customer Support,43,1.9,No,1,3,2,4051,Rarely,Yes
+E01146,Sales,36,9.6,No,3,4,4,7720,Rarely,No
+E01147,Technology,50,1.0,Yes,4,4,3,6111,Rarely,No
+E01148,Sales,26,8.0,No,1,1,1,4950,None,Yes
+E01149,Finance,40,22.0,No,1,1,2,6234,None,No
+E01150,Operations,60,4.1,No,2,2,3,6015,Rarely,Yes
+E01151,Operations,43,1.8,Yes,3,4,1,3874,Rarely,Yes
+E01152,Sales,48,1.8,No,1,2,4,8034,Rarely,No
+E01153,Technology,36,7.1,No,1,3,5,7762,None,No
+E01154,Operations,29,9.3,No,4,4,3,7266,None,No
+E01155,Technology,35,3.1,No,3,3,2,5452,None,No
+E01156,Technology,44,9.4,Yes,3,1,3,6448,None,No
+E01157,Operations,42,10.5,No,2,3,4,7266,Rarely,No
+E01158,Technology,53,8.5,Yes,1,3,3,6958,Rarely,No
+E01159,Finance,28,2.5,Yes,2,1,1,3206,None,Yes
+E01160,Operations,21,3.0,Yes,4,2,1,4373,None,Yes
+E01161,Technology,45,7.0,No,1,2,1,3654,Rarely,Yes
+E01162,Operations,42,4.6,No,3,1,4,6470,Rarely,No
+E01163,Technology,21,3.0,No,2,4,3,5915,None,No
+E01164,Finance,41,6.3,No,2,1,1,4251,None,Yes
+E01165,Sales,52,19.6,No,1,3,2,7333,None,No
+E01166,Customer Support,21,3.0,No,4,3,1,3416,None,Yes
+E01167,Technology,51,11.1,Yes,4,1,2,5362,None,Yes
+E01168,Technology,33,15.0,No,2,1,3,7695,None,No
+E01169,Sales,49,1.0,Yes,2,4,3,4906,None,Yes
+E01170,Sales,58,4.4,No,2,4,1,4787,Rarely,Yes
+E01171,Finance,37,9.0,Yes,2,4,5,8265,Rarely,No
+E01172,Technology,35,4.4,No,4,2,2,4848,Rarely,Yes
+E01173,Customer Support,39,3.5,No,2,4,4,6839,Frequently,No
+E01174,Technology,32,14.0,No,4,4,3,5931,Rarely,No
+E01175,Customer Support,25,7.0,No,3,1,3,6192,None,No
+E01176,Sales,48,1.5,No,1,3,1,4374,Frequently,Yes
+E01177,Sales,24,1.7,Yes,4,3,3,6314,None,No
+E01178,Sales,23,3.3,No,3,1,3,5984,Rarely,No
+E01179,Customer Support,43,1.9,No,2,2,2,5259,Rarely,No
+E01180,Customer Support,58,7.5,No,3,3,2,5329,None,Yes
+E01181,Technology,42,4.0,No,1,3,3,5773,Rarely,No
+E01182,Finance,55,21.5,No,4,1,3,7804,Frequently,No
+E01183,Finance,60,10.0,No,1,3,1,3372,Rarely,Yes
+E01184,Sales,21,3.0,Yes,3,1,3,6125,None,No
+E01185,Sales,31,3.2,Yes,1,4,1,3948,None,Yes
+E01186,Customer Support,28,4.9,Yes,1,2,5,8221,Frequently,No
+E01187,HR,56,9.3,No,4,2,3,6860,None,No
+E01188,Sales,34,3.5,No,4,3,2,3274,Rarely,Yes
+E01189,Sales,55,1.2,No,1,3,2,4779,Rarely,Yes
+E01190,Operations,58,0.9,Yes,1,4,2,4866,None,Yes
+E01191,Sales,47,4.3,No,2,1,2,4713,Rarely,Yes
+E01192,HR,35,10.3,Yes,2,2,2,5729,Frequently,Yes
+E01193,Sales,60,6.0,No,4,4,3,6108,Frequently,No
+E01194,Customer Support,47,2.0,Yes,3,4,2,3952,None,Yes
+E01195,Operations,44,8.5,No,4,1,3,7694,Frequently,No
+E01196,Operations,56,16.8,No,4,3,4,8242,None,No
+E01197,Operations,31,4.7,No,3,3,3,6683,None,No
+E01198,Technology,30,12.0,No,1,1,3,7246,Rarely,No
+E01199,Finance,51,6.0,No,4,2,3,5623,Rarely,No
+E01200,Sales,32,6.9,Yes,2,1,2,4592,Frequently,Yes
+E01201,Operations,52,12.8,Yes,4,2,2,5189,None,Yes
+E01202,HR,46,7.5,No,1,4,1,4586,None,Yes
+E01203,Operations,32,3.0,No,2,3,2,4335,Rarely,Yes
+E01204,HR,39,20.4,No,2,3,3,8116,None,No
+E01205,Finance,30,12.0,Yes,4,4,3,7686,Frequently,No
+E01206,Technology,51,2.5,Yes,3,2,1,3661,Rarely,Yes
+E01207,Customer Support,49,10.1,Yes,2,1,1,3642,Rarely,Yes
+E01208,Finance,32,9.2,No,2,2,3,6681,Rarely,No
+E01209,Customer Support,56,5.8,No,3,3,3,6145,None,No
+E01210,Finance,34,7.3,No,4,4,1,3713,Rarely,Yes
+E01211,Operations,48,1.7,No,2,4,2,5088,None,Yes
+E01212,Customer Support,30,3.4,No,4,1,1,3628,Rarely,Yes
+E01213,Operations,58,4.0,No,4,4,2,4908,Frequently,No
+E01214,Sales,42,24.0,Yes,1,4,4,9109,Rarely,No
+E01215,HR,36,5.6,No,1,3,4,6631,None,No
+E01216,HR,53,8.6,Yes,2,4,1,4612,Frequently,Yes
+E01217,Sales,55,6.1,Yes,1,3,3,5673,None,No
+E01218,Operations,22,3.8,No,3,3,1,3442,None,Yes
+E01219,Operations,33,15.0,No,4,2,2,5842,Rarely,No
+E01220,Technology,48,11.4,No,3,1,4,8156,Rarely,No
+E01221,Technology,38,3.3,Yes,3,1,5,7942,None,No
+E01222,HR,43,0.6,No,1,3,5,7482,Rarely,No
+E01223,Finance,31,10.4,No,3,4,2,5942,Rarely,No
+E01224,Operations,21,3.0,No,3,1,2,5279,None,No
+E01225,Sales,59,5.0,No,2,2,2,4477,None,Yes
+E01226,Operations,39,9.8,No,4,4,3,6826,Rarely,No
+E01227,Technology,57,4.7,No,2,2,1,4051,Rarely,Yes
+E01228,Sales,59,1.5,Yes,2,3,1,3979,Rarely,Yes
+E01229,Technology,31,7.4,No,3,4,3,5578,None,Yes
+E01230,Sales,45,12.5,Yes,1,2,2,5802,Frequently,Yes
+E01231,Operations,60,7.5,No,3,4,4,8196,Rarely,No
+E01232,Operations,52,4.6,Yes,4,2,4,7709,Rarely,No
+E01233,HR,50,11.5,No,1,2,2,6140,None,No
+E01234,Finance,43,4.4,No,2,2,2,5421,Frequently,No
+E01235,Operations,51,2.0,Yes,3,1,1,3716,None,Yes
+E01236,Customer Support,57,5.4,No,3,1,3,6019,None,No
+E01237,Customer Support,48,6.7,Yes,1,2,4,8128,None,No
+E01238,Technology,24,6.0,No,4,2,3,5206,Rarely,No
+E01239,Sales,22,4.0,No,1,1,4,6014,Rarely,No
+E01240,Technology,57,4.9,No,4,4,3,4846,Rarely,Yes
+E01241,Operations,51,4.8,Yes,1,1,2,5313,None,Yes
+E01242,Technology,39,2.2,No,3,2,3,5733,Frequently,No
+E01243,Customer Support,37,3.9,Yes,3,3,3,6334,None,No
+E01244,HR,59,0.5,Yes,2,1,2,4405,None,Yes
+E01245,Finance,37,3.5,No,4,3,5,7960,Rarely,No
+E01246,Sales,26,4.1,No,1,4,3,5645,Rarely,No
+E01247,Sales,28,10.0,No,3,2,4,8589,None,No
+E01248,HR,28,10.0,No,3,1,2,5823,Rarely,No
+E01249,Sales,43,9.4,No,3,3,1,3978,Rarely,Yes
+E01250,Finance,59,6.0,Yes,4,1,1,3746,None,Yes
+E01251,HR,27,2.4,No,4,4,1,3135,Frequently,Yes
+E01252,Operations,29,11.0,Yes,4,4,1,4392,None,Yes
+E01253,Technology,38,2.2,No,4,1,2,4779,None,Yes
+E01254,Sales,38,20.0,No,3,1,3,7668,None,No
+E01255,Operations,31,5.1,Yes,2,3,3,7045,Frequently,No
+E01256,Sales,57,17.3,No,4,2,5,8485,None,No
+E01257,Technology,56,9.6,No,3,3,3,6284,None,No
+E01258,Sales,34,11.2,Yes,2,1,3,7199,Frequently,No
+E01259,Finance,32,14.0,Yes,2,4,4,8159,None,No
+E01260,Finance,44,0.4,No,2,2,2,4150,None,Yes
+E01261,Operations,47,3.8,No,2,1,1,4227,Frequently,Yes
+E01262,Sales,26,1.3,No,3,3,4,7546,None,No
+E01263,Sales,41,4.5,No,3,1,3,5593,None,Yes
+E01264,Operations,50,0.9,Yes,3,4,3,5489,Rarely,No
+E01265,Sales,36,6.7,Yes,1,1,3,7314,Frequently,No
+E01266,Customer Support,60,19.8,No,2,3,2,6399,None,No
+E01267,Sales,60,9.5,Yes,2,1,4,7555,Rarely,No
+E01268,Technology,35,3.9,No,4,1,3,5870,Rarely,No
+E01269,Technology,35,5.5,No,4,1,2,4212,Rarely,Yes
+E01270,Operations,52,2.7,No,1,1,2,4854,Frequently,Yes
+E01271,Customer Support,23,3.7,No,3,2,3,7020,Frequently,No
+E01272,Technology,21,3.0,No,4,3,1,4253,None,Yes
+E01273,Sales,59,6.7,No,4,1,2,5293,None,No
+E01274,Sales,54,3.9,Yes,1,3,4,6070,Rarely,Yes
+E01275,Customer Support,40,17.3,No,4,1,3,6094,Rarely,No
+E01276,HR,46,7.2,Yes,3,2,2,5050,Rarely,Yes
+E01277,HR,58,5.8,No,2,1,3,5066,Rarely,No
+E01278,Customer Support,57,5.2,No,4,2,4,7205,Frequently,No
+E01279,Operations,46,7.9,No,2,3,2,4533,None,Yes
+E01280,Customer Support,36,7.2,No,2,2,1,4141,Frequently,Yes
+E01281,Operations,34,9.2,No,2,2,4,7312,Frequently,No
+E01282,Finance,49,4.4,No,1,4,2,4928,Rarely,No
+E01283,Finance,32,12.1,No,2,2,3,7009,Frequently,No
+E01284,Operations,52,7.3,No,4,2,3,5897,Frequently,No
+E01285,Sales,29,2.6,Yes,4,1,5,8035,Rarely,No
+E01286,Operations,43,0.6,No,1,4,2,4594,Rarely,Yes
+E01287,Operations,53,8.7,Yes,2,2,4,7670,Rarely,No
+E01288,Sales,45,4.4,No,4,3,2,5236,Frequently,No
+E01289,Sales,51,8.8,Yes,1,2,2,5899,Rarely,No
+E01290,Technology,60,2.4,Yes,3,3,2,4079,Frequently,Yes
+E01291,Sales,23,1.7,No,4,2,1,4015,None,Yes
+E01292,Customer Support,36,5.2,No,2,4,4,8278,Rarely,No
+E01293,Technology,53,12.0,No,2,1,5,8379,Rarely,No
+E01294,HR,49,3.9,No,2,3,2,3891,Rarely,Yes
+E01295,HR,39,1.6,No,2,3,1,3286,None,Yes
+E01296,Sales,38,8.8,No,1,3,5,7940,None,No
+E01297,Sales,32,1.8,No,3,1,2,3696,Rarely,Yes
+E01298,Operations,51,3.3,No,4,3,2,4485,Rarely,Yes
+E01299,Sales,42,2.9,No,4,4,3,5888,None,No
+E01300,Customer Support,31,7.8,Yes,4,3,1,3434,Rarely,Yes
+E01301,HR,42,2.0,No,4,1,4,7058,None,No
+E01302,Technology,58,5.6,No,2,3,1,3223,None,Yes
+E01303,Operations,48,5.7,No,4,1,2,4954,Rarely,Yes
+E01304,Operations,21,3.0,Yes,3,3,2,4310,Rarely,Yes
+E01305,Finance,52,3.6,No,3,2,3,6022,Rarely,No
+E01306,Operations,44,4.4,No,1,3,2,4364,Rarely,Yes
+E01307,Operations,21,3.0,No,3,4,3,6130,None,No
+E01308,Operations,35,6.6,No,3,3,2,5729,Rarely,Yes
+E01309,Customer Support,28,9.5,No,3,1,1,4610,None,Yes
+E01310,Sales,55,7.6,No,1,4,3,6342,Rarely,No
+E01311,Technology,37,9.1,Yes,4,3,3,5935,Frequently,No
+E01312,Operations,28,10.0,No,3,4,1,4528,Rarely,Yes
+E01313,Finance,24,6.0,Yes,4,4,5,8982,None,No
+E01314,Technology,30,10.7,No,1,1,3,6734,Frequently,No
+E01315,HR,46,7.4,No,3,4,1,4560,None,Yes
+E01316,Operations,45,6.7,No,3,3,4,7833,None,No
+E01317,Operations,38,3.7,Yes,4,3,4,7358,Rarely,No
+E01318,Customer Support,37,11.5,No,4,1,3,6295,Rarely,No
+E01319,Technology,26,5.8,No,4,3,4,8560,Rarely,No
+E01320,Operations,50,2.0,No,3,2,4,7035,None,No
+E01321,Sales,22,4.0,No,2,1,4,8013,Rarely,No
+E01322,Sales,27,7.2,No,3,2,1,4249,Rarely,Yes
+E01323,Technology,45,11.6,No,1,1,4,8542,Frequently,No
+E01324,Technology,41,8.8,No,3,2,4,7885,Rarely,No
+E01325,Sales,52,8.1,Yes,4,3,2,4450,None,Yes
+E01326,Sales,39,3.7,Yes,2,2,3,4859,Rarely,Yes
+E01327,Operations,24,5.6,No,4,3,1,4019,None,Yes
+E01328,Customer Support,26,3.7,No,3,3,2,4791,Rarely,Yes
+E01329,Operations,46,12.7,No,1,3,4,8119,None,No
+E01330,Sales,43,2.9,Yes,1,3,5,8940,None,No
+E01331,Finance,29,1.9,No,1,3,3,5867,Rarely,Yes
+E01332,Operations,55,1.7,No,1,3,2,5054,None,Yes
+E01333,Sales,42,2.4,Yes,1,1,4,6569,Frequently,No
+E01334,Customer Support,59,5.3,No,1,2,2,4841,None,Yes
+E01335,Operations,28,3.3,No,4,4,1,4239,Rarely,Yes
+E01336,Sales,24,6.0,No,3,3,3,5945,None,No
+E01337,Sales,34,9.6,Yes,2,3,2,5847,None,No
+E01338,HR,59,5.5,No,4,4,2,4820,None,Yes
+E01339,HR,42,2.7,Yes,1,1,3,6253,Rarely,Yes
+E01340,Technology,60,3.0,Yes,3,1,5,7856,Rarely,No
+E01341,Technology,23,5.0,No,1,4,2,5460,Rarely,Yes
+E01342,Operations,30,12.0,Yes,2,3,2,5241,Rarely,Yes
+E01343,Operations,46,16.8,No,4,3,1,5015,Rarely,No
+E01344,Operations,25,7.0,No,4,1,3,6853,None,No
+E01345,HR,30,7.7,No,4,2,1,3706,Rarely,Yes
+E01346,Operations,49,1.7,No,3,2,3,6065,Rarely,No
+E01347,Sales,56,2.1,Yes,3,3,3,5742,Rarely,No
+E01348,HR,42,7.9,No,1,1,2,6279,None,No
+E01349,Finance,37,7.5,No,4,4,2,5183,None,No
+E01350,Technology,50,4.7,No,4,2,2,3867,None,Yes
+E01351,Sales,28,5.6,Yes,1,2,1,3890,None,Yes
+E01352,Operations,57,14.3,Yes,3,3,3,6919,Rarely,No
+E01353,Technology,37,10.3,No,4,4,3,7050,Rarely,No
+E01354,Sales,52,11.2,Yes,2,4,2,4156,None,Yes
+E01355,Sales,46,1.2,No,3,3,3,5688,None,Yes
+E01356,Sales,36,7.1,No,4,4,3,6315,Rarely,No
+E01357,Sales,34,9.2,No,3,1,2,5781,None,No
+E01358,Operations,55,2.7,Yes,3,1,1,3302,Frequently,Yes
+E01359,Sales,52,1.0,Yes,4,3,1,2868,Rarely,Yes
+E01360,Sales,25,7.0,Yes,4,4,2,4191,Rarely,Yes
+E01361,Finance,26,8.0,No,2,1,2,4215,Rarely,Yes
+E01362,Customer Support,40,13.7,Yes,3,2,1,3611,Rarely,Yes
+E01363,Finance,46,3.8,No,3,3,3,6127,Rarely,Yes
+E01364,Customer Support,51,3.6,No,1,4,2,3068,Rarely,Yes
+E01365,Sales,33,14.6,No,2,3,1,5739,Frequently,No
+E01366,Finance,47,7.7,No,1,3,1,5099,None,No
+E01367,Customer Support,21,3.0,No,3,1,1,2912,Frequently,Yes
+E01368,Technology,43,6.7,No,3,1,1,4077,None,Yes
+E01369,HR,55,8.4,No,4,3,2,5476,None,No
+E01370,Operations,51,8.0,No,4,3,5,8569,Frequently,No
+E01371,Technology,35,10.3,Yes,4,3,2,5152,Rarely,No
+E01372,Technology,46,3.9,No,4,4,1,2885,Rarely,Yes
+E01373,Technology,46,4.4,No,1,4,2,4162,Rarely,Yes
+E01374,Operations,45,7.3,No,3,3,4,6996,Frequently,No
+E01375,Technology,26,2.5,Yes,2,1,1,3288,Rarely,Yes
+E01376,Technology,44,3.3,No,3,1,2,5406,Frequently,No
+E01377,Operations,57,1.9,Yes,3,1,2,4176,None,Yes
+E01378,Technology,52,8.9,Yes,4,3,3,7281,None,No
+E01379,Customer Support,31,3.4,No,1,3,2,5380,Frequently,No
+E01380,Technology,39,9.3,Yes,1,1,2,5312,Frequently,Yes
+E01381,HR,35,2.2,No,2,3,2,4922,Frequently,Yes
+E01382,HR,43,7.7,No,3,1,1,3858,None,Yes
+E01383,Technology,49,8.2,No,3,1,3,6310,Rarely,No
+E01384,Customer Support,55,4.7,Yes,4,1,2,3884,Frequently,Yes
+E01385,Operations,55,10.1,No,2,3,3,6573,Rarely,No
+E01386,Sales,56,2.0,No,1,1,1,3823,None,Yes
+E01387,Sales,23,5.0,Yes,1,3,1,4118,None,Yes
+E01388,Customer Support,59,2.3,Yes,2,1,3,6317,None,No
+E01389,Finance,53,3.3,No,2,1,3,6508,None,No
+E01390,Sales,53,15.1,No,4,1,4,9123,Rarely,No
+E01391,Sales,60,9.5,Yes,4,3,2,5775,Rarely,No
+E01392,Technology,47,2.6,No,3,3,1,3053,Rarely,Yes
+E01393,Finance,55,2.3,Yes,4,3,2,5088,Frequently,Yes
+E01394,Finance,47,6.1,No,3,2,3,6017,Rarely,No
+E01395,Sales,33,10.5,No,2,2,1,4588,None,Yes
+E01396,Operations,51,2.8,No,3,4,4,6475,None,No
+E01397,Technology,30,12.0,Yes,2,3,1,4468,None,Yes
+E01398,Technology,34,2.7,Yes,4,3,5,7762,Rarely,No
+E01399,Operations,56,5.5,No,4,3,1,4199,None,Yes
+E01400,Operations,43,6.4,No,3,3,4,6684,None,No

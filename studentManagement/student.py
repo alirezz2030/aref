@@ -2,7 +2,7 @@ import sqlite3
 
 
 def create_database():
-    with sqlite3.connect("school.db") as connection:
+    with sqlite3.connect("../school.db") as connection:
         connection.execute("""
             CREATE TABLE IF NOT EXISTS students (
                 id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -14,7 +14,7 @@ def create_database():
 
 
 def add_student(name, age, grade):
-    with sqlite3.connect("school.db") as connection:
+    with sqlite3.connect("../school.db") as connection:
         connection.execute(
             "INSERT INTO students (name, age, grade) VALUES (?, ?, ?)",
             (name, age, grade)
@@ -22,7 +22,7 @@ def add_student(name, age, grade):
 
 
 def show_students():
-    with sqlite3.connect("school.db") as connection:
+    with sqlite3.connect("../school.db") as connection:
         cursor = connection.execute(
             "SELECT id, name, age, grade FROM students ORDER BY id"
         )
@@ -32,7 +32,7 @@ def show_students():
 
 
 def show_average_grade():
-    with sqlite3.connect("school.db") as connection:
+    with sqlite3.connect("../school.db") as connection:
         cursor = connection.execute(
             "SELECT AVG(grade) FROM students"
         )

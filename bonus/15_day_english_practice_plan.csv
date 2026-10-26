@@ -1,0 +1,16 @@
+﻿day,focus,task
+1,Lessons 1–2,"Learn the core terms; explain dataset, metric, finding, and recommendation aloud."
+2,Lessons 1–2,Practice clarification questions and explain data grain.
+3,Lessons 3–4,Describe one data-quality issue and define two KPIs.
+4,Lessons 3–4,"Explain a numeric change using by, to, and percentage points."
+5,Lessons 5–6,Describe a trend from a line chart in three sentences.
+6,Lessons 5–6,Compare two categories and explain one chart's main message.
+7,Lessons 7–8,Practice explaining a correlation without claiming causation.
+8,Lessons 7–8,Explain a SQL join and a pandas groupby in plain English.
+9,Lessons 9–10,"Define confidence interval, p-value, and limitation in your own words."
+10,Lessons 9–10,Write a finding-insight-recommendation paragraph.
+11,Lessons 11–12,Practice a stakeholder data request and a meeting summary.
+12,Lessons 11–12,Write an executive summary and professional email.
+13,Lessons 13–14,Practice a 60-second self-introduction and project story.
+14,Lessons 13–14,Answer five SQL and five Python interview questions aloud.
+15,Lessons 15–16,Complete a business case and explain the conclusion in 90 seconds.
