@@ -1,0 +1,13 @@
+# Optional namespace quota example; review against your cluster capacity before applying.
+apiVersion: v1
+kind: ResourceQuota
+metadata:
+  name: learning-quota
+  namespace: k8s-learning
+spec:
+  hard:
+    requests.cpu: "2"
+    requests.memory: 2Gi
+    limits.cpu: "4"
+    limits.memory: 4Gi
+    pods: "20"

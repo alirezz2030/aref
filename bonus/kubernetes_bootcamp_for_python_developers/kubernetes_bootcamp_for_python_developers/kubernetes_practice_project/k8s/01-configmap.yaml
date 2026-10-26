@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: web-config
+  namespace: k8s-learning
+data:
+  APP_ENV: "learning"
+  REDIS_HOST: "redis"
+  REDIS_PORT: "6379"
